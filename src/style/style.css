@@ -15,3 +15,10 @@
 #cursosContainer{
     margin-top: 8rem;
 }
+
+form{
+    border: solid 1px grey;
+    border-radius: 5px;
+    padding: 3rem;
+    margin-top: 10rem;
+}
