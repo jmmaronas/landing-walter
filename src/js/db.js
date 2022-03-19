@@ -42,13 +42,13 @@ const cursos=[
         ],
         duration:2,
         modality:"On Line",
-        img:"../../public/img/logo.png"
+        img:"../../public/img/Metalmecanica2.jpg"
     },
     {
         id:"2",
-        title:"CERTIFICADO EN GESTIÓN DE NEGOCIOS",
+        title:"CERTIFICADO EN BUSINESS ANALYTICS",
         category:"yoga",
-        description: "Los profesionales que conducen empresas y organizaciones necesitan disponer de herramientas útiles que les permitan mejorar su desempeño como gerentes y asegurar la rentabilidad y sustentabilidad de las empresas que conducen. Gracias a este programa podrás desempeñarte con conocimiento práctico sobre la gestión de empresas, atendiendo a su integralidad, pero también comprendiendo la especificidad de las distintas áreas funcionales que la componen, con sentido de responsabilidad social y de sustentabilidad económica.",
+        description: "La digitalización ha provocado que muchas organizaciones hayan transformado su forma de trabajar dando prioridad a los datos y a la información como motor de su desarrollo.",
         skills:[
             {
                 id:"1",
@@ -85,9 +85,9 @@ const cursos=[
                 title:"Data Science para la inteligencia del negocio"
             }
         ],
-        duration:8,
+        duration:16,
         modality:"On Line",
-        img:"../../public/img/logo.png"
+        img:"../../public/img/Business Analytics.webp"
     },
     {
         id:"3",
@@ -128,7 +128,7 @@ const cursos=[
         ],
         duration:6,
         modality:"On Line",
-        img:"../../public/img/logo.png"
+        img:"../../public/img/Gestion-de-la-innovacion Empresarial.jpg"
     },
     {
         id:"4",
@@ -181,7 +181,7 @@ const cursos=[
         ],
         duration:20,
         modality:"On Line",
-        img:"../../public/img/logo.png"
+        img:"../../public/img/Mercadotecnia y Publicidad1.webp"
     },
     {
         id:"5",
@@ -226,7 +226,7 @@ const cursos=[
         ],
         duration:12,
         modality:"On Line",
-        img:"../../public/img/logo.png"
+        img:"../../public/img/Mercadotecnia y Publicidad.webp"
     },
     {
         id:"6",
@@ -271,7 +271,7 @@ const cursos=[
         ],
         duration:4,
         modality:"On Line",
-        img:"../../public/img/logo.png"
+        img:"../../public/img/Curso de logistica2.jpg"
     },
     {
         id:"7",
@@ -308,7 +308,7 @@ const cursos=[
         ],
         duration:4,
         modality:"On Line",
-        img:"../../public/img/logo.png"    
+        img:"../../public/img/Competencias Digitales2.png"    
     },
     {
         id:"8",
@@ -361,7 +361,60 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"../../public/img/logo.png"    
+        img:"../../public/img/Gestion de Negocios.webp"    
+    },
+    {
+        id:"9",
+        title:"Dirección Comercial en Mercadotecnia y Publicidad",
+        category:"yoga",
+        description: "Desarrollar las competencias necesarias que te permitan desde la Dirección Comercial diseñar y gestionar un plan comercial de ventas para cualquier empresa, de cualquier tamaño y sector, que contribuya a alcanzar sus objetivos de crecimiento y rentabilidad.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Identificar la importancia de la comunicación dentro del proceso de marketing."
+            },
+            {
+                id:"2",
+                desciption:"Conocer como las empresas planifican, implantan y dirigen su fuerza de ventas."
+            },
+            {
+                id:"3",
+                desciption:"Diseñar adecuadamente la estrategia de comunicación de una empresa."
+            },
+            {
+                id:"4",
+                desciption:"Reconocer la importancia de la formación de vendedores."
+            },
+            {
+                id:"5",
+                desciption:"Analizar las nuevas tecnologías disponibles para realizar campañas publicitarias."
+            },
+            {
+                id:"6",
+                desciption:"Evaluar y mesurar los resultados de una campaña publicitaria"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"La Empresa y el entorno Jurídico"
+            },
+            {
+                id:"2",
+                title:"La dirección Comercial"
+            },
+            {
+                id:"3",
+                title:"El Marketing"
+            },
+            {
+                id:"4",
+                title:"La Publicidad"
+            } 
+        ],
+        duration:16,
+        modality:"On Line",
+        img:"../../public/img/Mercadotecnia y Publicidad.webp"    
     }
 ];
 

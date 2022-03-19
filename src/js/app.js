@@ -12,8 +12,8 @@ function renderCursos() {
     cursosContainer.innerHTML += `
             <div class="card mb-3 py-2" >
                 <div class="row g-0">
-                  <div class="col-md-4">
-                    <img src="${curso.img}" class="img-fluid rounded-start" alt="...">
+                  <div class="col-md-4 my-auto px-2">
+                    <img src="${curso.img}" class="img-fluid rounded shadow p-3" alt="...">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
@@ -21,12 +21,12 @@ function renderCursos() {
                       <p class="card-text">${curso.description}</p>
                       <p class="card-text">Duracion: ${curso.duration} semanas</p>
                       <p class="card-text">Modalidad: ${curso.modality}</p>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                      
                     </div>
             
                     <!-- Button trigger modal -->
                     <div class="d-flex">
-                        <button type="button" class="btn btn-success d-flex px-lg-4 mx-2" data-bs-toggle="modal" data-bs-target="#exampleModal${curso.id}">
+                        <button type="button" class="btn btn-success d-flex px-lg-3 mx-1" data-bs-toggle="modal" data-bs-target="#exampleModal${curso.id}">
                         + Info
                         </button>
                         <button type="button" class="btn btn-primary px-lg-4 mx-2">comprar</button>
