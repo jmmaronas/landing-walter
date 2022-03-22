@@ -48,7 +48,7 @@ function renderCursos() {
                         <h6 class="card-title">Al finalizar el curso podras:</h6>
                         <ul id="skills${curso.id}"></ul>
                         <h6 class="card-title">Unidades:</h6>
-                        <ul id="units${curso.id}"></ul>
+                        <ol id="units${curso.id}"></ol>
                         <p class="card-text">Duracion: ${curso.duration} semanas</p>
                         <p class="card-text">Modalidad: ${curso.modality}</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>

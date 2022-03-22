@@ -415,6 +415,888 @@ const cursos=[
         duration:16,
         modality:"On Line",
         img:"../../public/img/Mercadotecnia y Publicidad.webp"    
+    },
+    {
+        id:"10",
+        title:"Curso administración de sistemas y servicios de infraestructura de TI.",
+        category:"yoga",
+        description: "Este curso te hará pasar de trabajar en una sola computadora a una flota completa. La administración de sistemas es el campo de TI que es responsable de mantener sistemas informáticos confiables en un entorno multiusuario.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Poder elegir y administrar las herramientas que usará tu organización."
+            },
+            {
+                id:"2",
+                desciption:"Utilizar las mejores prácticas para elegir hardware, proveedores y servicios para tu empresa."
+            },
+            {
+                id:"3",
+                desciption:"Comprender cómo aprovechar al máximo la nube para tu empresa."
+            },
+            {
+                id:"4",
+                desciption:"•	Utilizar el conocimiento de administración de sistemas para planificar y mejorar los procesos para entornos de TI."
+            }            
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Administración del sistema."
+            },
+            {
+                id:"2",
+                title:"Servicios de Red e infraestructura."
+            },
+            {
+                id:"3",
+                title:"Software y plataformas."
+            },
+            {
+                id:"4",
+                title:"Servicios de directorio."
+            },
+            {
+                id:"5",
+                title:"Recuperación de datos y copia de seguridad."
+            } 
+
+        ],
+        duration:7,
+        modality:"On Line",
+        img:"../../public/img/estudiar online.jpg"    
+    },
+    {
+        id:"11",
+        title:"CURSO DE E–COMMERCE",
+        category:"yoga",
+        description: "Comercializar productos por medio del mercadeo digital para expandir el negocio, potenciar el alcance y generar rentabilidad de un negocio.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Conocer los diferentes modelos de negocio en Internet y e-Commerce"
+            },
+            {
+                id:"2",
+                desciption:"Familiarizarse con los conceptos básicos del desarrollo web y e-Commerce"
+            },
+            {
+                id:"3",
+                desciption:"Conocer aspectos operacionales del e-Commerce, como la e-logística y la atención al cliente"
+            },
+            {
+                id:"4",
+                desciption:"Utilizar el conocimiento de administración de sistemas para planificar y mejorar los procesos para entornos de TI."
+            },
+            {
+                id:"5",
+                desciption:"Conocer los diferentes medios de pago, cuestiones básicas de seguridad, y facturación electrónica"
+            },
+            {
+                id:"6",
+                desciption:"Analizar los aspectos legales relacionados con el comercio electrónico"
+            }            
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción al comercio electrónico."
+            },
+            {
+                id:"2",
+                title:"Tecnología del comercio electrónico: Woocommerce, Shopify entre otros."
+            },
+            {
+                id:"3",
+                title:"Medidas de pago y seguridad"
+            },
+            {
+                id:"4",
+                title:"Configuración de e-Commerce en Shopify y Woocommerce"
+            },
+            {
+                id:"5",
+                title:"Generando contenido, productos y categorías en plataformas."
+            },
+            {
+                id:"6",
+                title:"Optimización de contenido para plataformas."
+            } 
+
+        ],
+        duration:4,
+        modality:"On Line",
+        img:"../../public/img/Community manager1.jpg"    
+    },
+    {
+        id:"12",
+        title:"CURSO DE MANEJO DE REDES SOCIALES PARA EMPRENDEDORES",
+        category:"yoga",
+        description: "Conocer las principales Redes sociales para profundizar en el manejo y herramientas del marketing digital, su público y potencialidades para el negocio o empresa. Conocer diferentes estrategias en la comunicación y el manejo de un plan de social media.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Incrementar las Ventas"
+            },
+            {
+                id:"2",
+                desciption:"Aumentar tu comunidad de seguidores"
+            },
+            {
+                id:"3",
+                desciption:"Crear contenido que conecte con tu publico ideal"
+            },
+            {
+                id:"4",
+                desciption:"Técnicas y herramientas practicas para diseño"
+            },
+            {
+                id:"5",
+                desciption:"Como hacer anuncios de pago en Facebook e Instagram"
+            }            
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Fundamentos de Redes Sociales."
+            },
+            {
+                id:"2",
+                title:"Creación de contenidos para Redes Sociales."
+            },
+            {
+                id:"3",
+                title:"Whatsapp Business"
+            },
+            {
+                id:"4",
+                title:"Configuración y dominio de las paginas de Facebook"
+            },
+            {
+                id:"5",
+                title:"Fase practica"
+            }
+        ],
+        duration:5,
+        modality:"On Line",
+        img:"../../public/img/Community manager.jpg"    
+    },
+    {
+        id:"13",
+        title:"Curso de manejo de stock y distribución",
+        category:"yoga",
+        description: "Formación superior en técnicas para la gestión comercial de un negocio, proporcionando al alumno distintas operaciones para gestionar el stock y para controlar un almacén, en el ámbito profesional.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Planificar de forma adecuada un Almacén / Bodega."
+            },
+            {
+                id:"2",
+                desciption:"Manejo apropiado de Stock"
+            },
+            {
+                id:"3",
+                desciption:"Sistemas y aplicaciones para Almacenes"
+            },
+            {
+                id:"4",
+                desciption:"Costos de Almacenamiento "
+            },
+            {
+                id:"5",
+                desciption:"Controlar Inventarios"
+            }            
+        ],
+        units:[
+            {
+                id:"1",
+                title:"La Logística"
+            },
+            {
+                id:"2",
+                title:"Clases de Almacenes/Bodegas"
+            },
+            {
+                id:"3",
+                title:"Diseño Físico del Almacen"
+            },
+            {
+                id:"4",
+                title:"Gestion de Stock"
+            },
+            {
+                id:"5",
+                title:"Control de Inventarios"
+            },
+            {
+                id:"6",
+                title:"Simulación Dinámica de Estrategias de sistemas"
+            } 
+
+        ],
+        duration:3,
+        modality:"On Line",
+        img:"../../public/img/Gestion de Stock1.jpg"    
+    },
+    {
+        id:"14",
+        title:"Curso de Modelado 3D y render de productos deportivos para publicidad",
+        category:"yoga",
+        description: "En este curso vamos a aprender a plantear un modelado de estas características desde el planteamiento inicial usando bocetos del diseño original, hasta la colocación de todos sus componentes usando herramientas de modelado sencillas.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Modelar un Producto deportivo como por Ejemplo Calzados"
+            },
+            {
+                id:"2",
+                desciption:"Sacar el mayor provecho de fotos de Estudio "
+            },
+            {
+                id:"3",
+                desciption:"Crear materiales Para Apoyar el Modelaje"
+            },
+            {
+                id:"4",
+                desciption:"Usar Herramientas Tecnológicas"
+            }            
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"Modelado Base"
+            },
+            {
+                id:"3",
+                title:"Retopología"
+            },
+            {
+                id:"4",
+                title:"Uso de Herramientas Tecnológicas"
+            },
+            {
+                id:"5",
+                title:"Creación de Render"
+            },
+            {
+                id:"6",
+                title:"Modelado de producto final"
+            } 
+
+        ],
+        duration:8,
+        modality:"On Line",
+        img:"../../public/img/cursos on line.jpg"    
+    },
+    {
+        id:"15",
+        title:"Curso Desarrollador Web desde cero.",
+        category:"yoga",
+        description: "Curso completo para el aprendizaje desde cero conociendo las mejores tecnologías de la web paso a paso.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Realizar programacion orientadas a objetos"
+            },
+            {
+                id:"2",
+                desciption:"Estructurar sitios web"
+            },
+            {
+                id:"3",
+                desciption:"Aprender paso a paso los lenguajes mas populares de la Web."
+            }            
+        ],
+        units:[
+            {
+                id:"1",
+                title:"HTML Y HTML"
+            },
+            {
+                id:"2",
+                title:"CSS Y CSS3"
+            },
+            {
+                id:"3",
+                title:"Javascript"
+            },
+            {
+                id:"4",
+                title:"PHP"
+            },
+            {
+                id:"5",
+                title:"MySQL"
+            },
+            {
+                id:"6",
+                title:"JQuery"
+            },
+            {
+                id:"7",
+                title: "Bootstrap 5"
+            },
+            {
+                id:"8",
+                title:"Crear Template desde cero"
+            }
+
+        ],
+        duration:16,
+        modality:"On Line",
+        img:"../../public/img/estudiar-online-ordenador-internet.jpg"    
+    },
+    {
+        id:"16",
+        title:"Curso teórico online de almacenamiento en bodega",
+        category:"yoga",
+        description: "Este Curso contribuye al desarrollo de las habilidades para entender, diseñar y ejecutar los procesos involucrados en los almacenes.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Entender las restricciones y soluciones en la gestión actual de almacenes."
+            },
+            {
+                id:"2",
+                desciption:"Enriquecer los conocimientos y contar con las mejores prácticas para el éxito."
+            },
+            {
+                id:"3",
+                desciption:"Aplicar soluciones tecnológicas y ver los indicadores claves de la gestión."
+            },
+            {
+                id:"4",
+                desciption:"Conocer el equipamiento apropiado según el tipo de operación necesaria en la bodega."
+            }           
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Conceptos preliminares de la gestión de almacenes."
+            },
+            {
+                id:"2",
+                title:"El Depósito, procesos y actividades."
+            },
+            {
+                id:"3",
+                title:"Proceso de recepción, preparación y distribución de pedidos."
+            },
+            {
+                id:"4",
+                title:"Sistemas de almacenaje."
+            },
+            {
+                id:"5",
+                title:"Equipamiento de un centro de distribución."
+            },
+            {
+                id:"6",
+                title:"Sistemas y tecnología aplicadas a la gestión de almacenes."
+            },
+            {
+                id:"7",
+                title: "Lay Outs"
+            },
+            {
+                id:"8",
+                title:"Costos logísticos y costeo de operaciones."
+            }
+
+        ],
+        duration:6,
+        modality:"On Line",
+        img:"../../public/img/Almacenamiento en bodega1.webp"    
+    },
+    {
+        id:"17",
+        title:"Diplomado Community Management",
+        category:"yoga",
+        description: "Dicho curso presenta una formación profunda en habilidades técnicas avanzadas y competencias digitales para el diseño y la planificación estratégica de la gestión de redes sociales, desde la cultura organizacional.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Saber elaborar Planes de Marketing Digital y de Medios Sociales."
+            },
+            {
+                id:"2",
+                desciption:"Conocer las herramientas de gestión y monitorización de las Redes Sociales."
+            },
+            {
+                id:"3",
+                desciption:"Conocer las métricas de la Analítica Web"
+            },
+            {
+                id:"4",
+                desciption:"Establecer la estrategia de E-commerce, los modelos de negocio y la logística digital."
+            }           
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Nuevas tendencias del Marketing"
+            },
+            {
+                id:"2",
+                title:"E-Commerce y Redes sociales"
+            },
+            {
+                id:"3",
+                title:"Marketing y Producto"
+            },
+            {
+                id:"4",
+                title:"Marketing de Buscadores y Analitica Web"
+            }
+        ],
+        duration:16,
+        modality:"On Line",
+        img:"../../public/img/Community manager2.jpg"    
+    },
+    {
+        id:"18",
+        title:"Dirección de ciberseguridad Avanzada",
+        category:"yoga",
+        description: "El mundo actual avanza hacia la completa digitalización. Cada vez más procesos, operaciones y tareas básicas de todo tipo se realizan a través de un dispositivo electrónico. Pero este progreso tiene también ciertos riesgos, ya que ordenadores, smartphones, tablets y todo tipo de aplicaciones digitales pueden ser susceptibles de recibir ataques informáticos.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Generar conocimiento especializado sobre un sistema de información, tipos y aspectos de seguridad que deben ser tenidos en cuenta."
+            },
+            {
+                id:"2",
+                desciption:"Identificar las vulnerabilidades de un sistema de información."
+            },
+            {
+                id:"3",
+                desciption:"Evaluar el conocimiento en término de ciberseguridad."
+            },
+            {
+                id:"4",
+                desciption:"Analizar los servicios y herramientas en cada uno de los ámbitos de seguridad."
+            },
+            {
+                id:"5",
+                desciption:"Examinar los certificados digitales."
+            },
+            {
+                id:"6",
+                desciption:"Analizar los tipos de criptografía según el tipo de algoritmo y según su uso."
+            },
+            {
+                id:"7",
+                desciption:"Desarrollar las especificaciones de seguridad de cada tecnología"
+            },            
+            {
+                id:"8",
+                desciption:"Analizar de forma comparativa la seguridad de las tecnologías"
+            }                                     
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Seguridad en el diseño y desarrollo de sistemas"
+            },
+            {
+                id:"2",
+                title:"Arquitecturas y modelos de seguridad de la información"
+            },
+            {
+                id:"3",
+                title:"Gestión de la seguridad IT"
+            },
+            {
+                id:"4",
+                title:"Criptografía en IT"
+            },
+            {
+                id:"5",
+                title:"Gestión de identidad y accesos en seguridad IT"
+            },
+            {
+                id:"6",
+                title:"Seguridad en entornos"
+            },
+            {
+                id:"7",
+                title:"Plan de continuidad del negocio asociado a la seguridad "
+            }
+        ],
+        duration:28,
+        modality:"On Line",
+        img:"../../public/img/Ciberseguridad.jpg"    
+    },
+    {
+        id:"19",
+        title:"Ejecutivo en Dirección de Pequeñas y Medianas Empresas y Empresas Familiares.",
+        category:"yoga",
+        description: "Las pequeñas y medianas empresas son una fuente creciente de empleo y una parte fundamental en el entramado de nuestra economía. Este curso está orientado a los dueños y dirigentes de empresas que se han dado cuenta que las herramientas con las que se han desarrollado hasta hoy no les sirven para encarar el próximo paso profesional que quiere.n dar y están buscando adaptar sus organizaciones a los nuevos desafíos.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Conocer las mas actuales herramientas de gestión de negocios y aplicarlas en el mismo curso a su empresa en particular."
+            },
+            {
+                id:"2",
+                desciption:"Conocer y reflexionar sobre su negocio basado en la situación del mercado"
+            },
+            {
+                id:"3",
+                desciption:"Lograr tomar las mejores soluciones para la empresa."
+            }                                     
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción a la Administración de Empresas"
+            },
+            {
+                id:"2",
+                title:"Fundamentos de la Economía."
+            },
+            {
+                id:"3",
+                title:"Liderazgo y Trabajo en Equipo."
+            },
+            {
+                id:"4",
+                title:"Gestión Comercial y Marketing"
+            },
+            {
+                id:"5",
+                title:"La Empresa Familiar"
+            },
+            {
+                id:"6",
+                title:"Gestión de Costos"
+            },
+            {
+                id:"7",
+                title:"Gestión Financiera"
+            }
+        ],
+        duration:12,
+        modality:"On Line",
+        img:"../../public/img/Pequeñas empresas.jpg"    
+    },
+    {
+        id:"20",
+        title:"Ejecutivo en Ventas y Desarrollo Comercial",
+        category:"yoga",
+        description: "",
+        skills:[
+            {
+                id:"1",
+                desciption:"Lograr comprender la importancia de la venta en el proceso comercial de la organización."
+            },
+            {
+                id:"2",
+                desciption:"Conozca la importancia del marketing y sus variables."
+            },
+            {
+                id:"3",
+                desciption:"Genere herramientas para la prospección y los llamados en frío"
+            },
+            {
+                id:"4",
+                desciption:"Logre aumentar el caudal de negocios, visitas y el ratio de cierre de ventas"
+            },
+            {
+                id:"5",
+                desciption:"Utilice en forma fluida las métricas relacionadas con la venta."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Conceptos fundamentales para la profesionalización de la fuerza de ventas."
+            },
+            {
+                id:"2",
+                title:"Introducción al Marketing y ventas."
+            },
+            {
+                id:"3",
+                title:"Conocer Técnicas de ventas."
+            },
+            {
+                id:"4",
+                title:"Métricas de Ventas."
+            },
+            {
+                id:"5",
+                title:"Atención integral al cliente"
+            }
+        ],
+        duration:20,
+        modality:"On Line",
+        img:"../../public/img/Ventas y desarrollo comercial1.jpg"    
+    },
+    {
+        id:"21",
+        title:"Especialización de Curso Completo de Blockchain de cero a experto",
+        category:"yoga",
+        description: "En este curso aprenderás las bases fundamentales de la tecnología de Blockchain para convertirte en un experto en este campo. El mismo ha sido diseñado para cubrir los principios básicos hasta los más avanzados de la tecnología Blockchain, empezando por sus orígenes y avanzando por los conceptos criptográficos que han hecho posible su construcción.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Entender los orígenes de la creación de Blockchain"
+            },
+            {
+                id:"2",
+                desciption:"Creación de una Blockchain con Python desde 0"
+            },
+            {
+                id:"3",
+                desciption:"Conocerás los tokens con todos los detalles."
+            },
+            {
+                id:"4",
+                desciption:"Desarrollo del algoritmo de Hashing que actúa como piedra angular en Blockchain"
+            },
+            {
+                id:"5",
+                desciption:"Creación de una Criptomoneda con Python desde 0"
+            },
+            {
+                id:"6",
+                desciption:"Creación de un sistema de pago con Tokens"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"Introducción al Blockchain"
+            },
+            {
+                id:"3",
+                title:"Arquitectura"
+            },
+            {
+                id:"4",
+                title:"Características del Blockchain"
+            },
+            {
+                id:"5",
+                title:"Creación de una Blockchain con Python"
+            },
+            {
+                id:"6",
+                title:"Tokens"
+            },
+            {
+                id:"7",
+                title:"Creación de un sistema de pagos con Tokens"
+            }
+        ],
+        duration:5,
+        modality:"On Line",
+        img:"../../public/img/blockchain1.jpg"    
+    },
+    {
+        id:"22",
+        title:"Maestría Oficial en Administración y Dirección de Empresas (MBA) ",
+        category:"yoga",
+        description: "La Maestría en Administración y Dirección de Empresas (MBA) está enfocado a profesionales cualificados encaminados a desempeñar puestos de Alta Dirección y desarrollar una carrera profesional directiva en cualquiera de los principales departamentos de la empresa.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Aportar una visión global, estratégica y multidisciplinar."
+            },
+            {
+                id:"2",
+                desciption:"Generar habilidades directivas necesarias para el desempeño Empresarial."
+            },
+            {
+                id:"3",
+                desciption:"Incentivar lo innovador como factor estratégico."
+            },
+            {
+                id:"4",
+                desciption:"Desarrollar habilidades para la gestión del marketing off y online."
+            },
+            {
+                id:"5",
+                desciption:"Reforzar la importancia de la integración, cooperación y ética dentro de la estructura de la empresa."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Fundamentos Organizacionales"
+            },
+            {
+                id:"2",
+                title:"Proyectos Empresariales"
+            },
+            {
+                id:"3",
+                title:"Areas Funcionales"
+            },
+            {
+                id:"4",
+                title:"Desarrollo Directivo"
+            },
+            {
+                id:"5",
+                title:"Globalización y Nuevas Tecnologías."
+            },
+            {
+                id:"6",
+                title:"Proyecto Final de la Maestría."
+            }
+        ],
+        duration:40,
+        modality:"On Line",
+        img:"../../public/img/estudiar-online-ordenador-internet.jpg"    
+    },
+    {
+        id:"23",
+        title:"Maestría Oficial en Dirección de Marketing y Gestión Comercial",
+        category:"yoga",
+        description: "Curso donde Conocerás las herramientas para atender las necesidades de los consumidores mientras te desarrollas como directivo, convirtiendo retos y oportunidades del mercado en ventajas competitivas para los clientes y tu empresa.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Dominar las técnicas y fuentes de obtención de información, y profundizar en la creación de un sistema de información de Marketing."
+            },
+            {
+                id:"2",
+                desciption:"Definir los diferentes escenarios, determinar las oportunidades y desarrollar la estrategia de marketing adecuada."
+            },
+            {
+                id:"3",
+                desciption:"Poder Identificar oportunidades, amenazas y posibilidades de cambio dentro del entorno de la empresa."
+            },
+            {
+                id:"4",
+                desciption:"Liderar y motivar equipos de trabajo en un entorno globalizado y multicultural."
+            },
+            {
+                id:"5",
+                desciption:"Saber cómo debe relacionarse el Departamento de Marketing y Ventas con el resto de la organización para aumentar el valor de la empresa."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Dirección y Gestión de la Organización."
+            },
+            {
+                id:"2",
+                title:"Dirección de Marketing Estratégico."
+            },
+            {
+                id:"3",
+                title:"Planificación Estratégica de Mercados y Go to Market"
+            },
+            {
+                id:"4",
+                title:"Minor"
+            },
+            {
+                id:"5",
+                title:"TFM"
+            }
+        ],
+        duration:24,
+        modality:"On Line",
+        img:"../../public/img/Gestion de Negocios1.jpg"    
+    },
+    {
+        id:"24",
+        title:"Operaciones, Procesos y Eficiencia en Consultoría.",
+        category:"yoga",
+        description: "Ya se trate de la organización y la gestión, de la organización del trabajo y de los procesos, de los sistemas informáticos o de los sistemas de producción: El espectro de servicios integral de la asesoría de procesos y organización cubre básicamente todas las áreas y niveles de su empresa.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Profundizar en cuestiones de todas las operaciones realizadas."
+            },
+            {
+                id:"2",
+                desciption:"Entender las variables de la operación."
+            },
+            {
+                id:"3",
+                desciption:"Analizar la información y optimizar los procesos."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Operaciones, Procesos y Eficiencia."
+            },
+            {
+                id:"2",
+                title:"Las variables de la operación."
+            },
+            {
+                id:"3",
+                title:"Procesos de las empresas."
+            },
+            {
+                id:"4",
+                title:"Optimización, digitalización y transformación de los procesos."
+            },
+            {
+                id:"5",
+                title:"Búsqueda en la mejora de las operaciones."
+            }
+        ],
+        duration:24,
+        modality:"On Line",
+        img:"../../public/img/Gestion de Negocios.webp"    
+    },
+    {
+        id:"25",
+        title:"Principios de Análisis e Instrumentos Financieros",
+        category:"yoga",
+        description: "Este curso ha sido desarrollado para tomar las mejores decisiones para maximizar los participantes medios más valor y rentabilidad de las grandes empresas para calcular el conocimiento de sus negocios de base de financiación.",
+        skills:[
+            {
+                id:"1",
+                desciption:"Toma de decisiones apropiadas relativas a la gestión financiera de la empresa."
+            },
+            {
+                id:"2",
+                desciption:"Las fuentes de financiación disponibles en el mercado."
+            },
+            {
+                id:"3",
+                desciption:"Aplicar un análisis financiero de la empresa."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Estados Financieros."
+            },
+            {
+                id:"2",
+                title:"Mercado Financiero."
+            },
+            {
+                id:"3",
+                title:"Instrumentos Financieros"
+            },
+            {
+                id:"4",
+                title:"Toma de decisiones basada en el Análisis."
+            }
+        ],
+        duration:3,
+        modality:"On Line",
+        img:"../../public/img/Master-en-Business-Analytics-02.jpg"    
     }
 ];
 

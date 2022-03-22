@@ -1,8 +1,6 @@
 .header{
     position: relative;
     width: 100%;    
-    background-image: url("../../public/img/foto de cursos.jpg");
-    background-position: center;
     filter: brightness(0.9);
     z-index: 1000;
 }
@@ -17,10 +15,6 @@
     background-size: cover;
     z-index: -1;        
 }
-
-.header p{
-    color: white;
-}
 .header .navbar{
     opacity: 0.9;
     position: absolute;
@@ -28,22 +22,7 @@
     z-index: 1000;
 }
 
-i img{
-    border: solid 3px rgb(55, 90, 90);
-    border-radius: 50%;
-}
-.img-box{
-    width: 6rem;
-    height: 6rem;
-    border: solid 1px black;
-    border-radius: 5px;
-}
-
-#cursosContainer{
-    margin-top: 2rem;
-}
-
-form{
+.formulario{
     border: solid 1px grey;
     border-radius: 5px;
     padding: 3rem;
