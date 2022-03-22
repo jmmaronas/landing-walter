@@ -2,15 +2,16 @@ import cursos from "./db.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   renderCursos();
+  renderCards();
 });
 
 const cursosContainer = document.querySelector("#cursosContainer");
-
+const cardsContiner = document.getElementById("cardsContainer");
 function renderCursos() {
   for (const curso of cursos) {
     curso.innerHTML = "";
     cursosContainer.innerHTML += `
-            <div class="card mb-3 py-2" >
+            <div id="curso${curso.id}" class="card mb-3 py-2" >
                 <div class="row g-0">
                   <div class="col-md-4 my-auto px-2">
                     <img src="${curso.img}" class="img-fluid rounded shadow p-3" alt="...">
@@ -76,3 +77,5 @@ function renderCursos() {
     }
   }
 }
+
+
