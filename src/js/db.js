@@ -42,7 +42,7 @@ const cursos=[
         ],
         duration:2,
         modality:"On Line",
-        img:"../../public/img/Metalmecanica2.jpg"
+        img:"./public/img/Metalmecanica2.jpg"
     },
     {
         id:"2",
@@ -87,7 +87,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"../../public/img/Business Analytics.webp"
+        img:"./public/img/Business Analytics.webp"
     },
     {
         id:"3",
@@ -128,7 +128,7 @@ const cursos=[
         ],
         duration:6,
         modality:"On Line",
-        img:"../../public/img/Gestion-de-la-innovacion Empresarial.jpg"
+        img:"./public/img/Gestion-de-la-innovacion Empresarial.jpg"
     },
     {
         id:"4",
@@ -181,7 +181,7 @@ const cursos=[
         ],
         duration:20,
         modality:"On Line",
-        img:"../../public/img/Mercadotecnia y Publicidad1.webp"
+        img:"./public/img/Mercadotecnia y Publicidad1.webp"
     },
     {
         id:"5",
@@ -226,7 +226,7 @@ const cursos=[
         ],
         duration:12,
         modality:"On Line",
-        img:"../../public/img/Mercadotecnia y Publicidad.webp"
+        img:"./public/img/Mercadotecnia y Publicidad.webp"
     },
     {
         id:"6",
@@ -271,7 +271,7 @@ const cursos=[
         ],
         duration:4,
         modality:"On Line",
-        img:"../../public/img/Curso de logistica2.jpg"
+        img:"./public/img/Curso de logistica2.jpg"
     },
     {
         id:"7",
@@ -308,7 +308,7 @@ const cursos=[
         ],
         duration:4,
         modality:"On Line",
-        img:"../../public/img/Competencias Digitales2.png"    
+        img:"./public/img/Competencias Digitales2.png"    
     },
     {
         id:"8",
@@ -361,7 +361,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"../../public/img/Gestion de Negocios.webp"    
+        img:"./public/img/Gestion de Negocios.webp"    
     },
     {
         id:"9",
@@ -414,7 +414,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"../../public/img/Mercadotecnia y Publicidad.webp"    
+        img:"./public/img/Mercadotecnia y Publicidad.webp"    
     },
     {
         id:"10",
@@ -464,7 +464,7 @@ const cursos=[
         ],
         duration:7,
         modality:"On Line",
-        img:"../../public/img/estudiar online.jpg"    
+        img:"./public/img/estudiar online.jpg"    
     },
     {
         id:"11",
@@ -526,7 +526,7 @@ const cursos=[
         ],
         duration:4,
         modality:"On Line",
-        img:"../../public/img/Community manager1.jpg"    
+        img:"./public/img/Community manager1.jpg"    
     },
     {
         id:"12",
@@ -579,7 +579,7 @@ const cursos=[
         ],
         duration:5,
         modality:"On Line",
-        img:"../../public/img/Community manager.jpg"    
+        img:"./public/img/Community manager.jpg"    
     },
     {
         id:"13",
@@ -637,7 +637,7 @@ const cursos=[
         ],
         duration:3,
         modality:"On Line",
-        img:"../../public/img/Gestion de Stock1.jpg"    
+        img:"./public/img/Gestion de Stock1.jpg"    
     },
     {
         id:"14",
@@ -691,7 +691,7 @@ const cursos=[
         ],
         duration:8,
         modality:"On Line",
-        img:"../../public/img/cursos on line.jpg"    
+        img:"./public/img/cursos on line.jpg"    
     },
     {
         id:"15",
@@ -749,7 +749,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"../../public/img/estudiar-online-ordenador-internet.jpg"    
+        img:"./public/img/estudiar-online-ordenador-internet.jpg"    
     },
     {
         id:"16",
@@ -811,7 +811,7 @@ const cursos=[
         ],
         duration:6,
         modality:"On Line",
-        img:"../../public/img/Almacenamiento en bodega1.webp"    
+        img:"./public/img/Almacenamiento en bodega1.webp"    
     },
     {
         id:"17",
@@ -856,7 +856,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"../../public/img/Community manager2.jpg"    
+        img:"./public/img/Community manager2.jpg"    
     },
     {
         id:"18",
@@ -929,7 +929,7 @@ const cursos=[
         ],
         duration:28,
         modality:"On Line",
-        img:"../../public/img/Ciberseguridad.jpg"    
+        img:"./public/img/Ciberseguridad.jpg"    
     },
     {
         id:"19",
@@ -982,7 +982,7 @@ const cursos=[
         ],
         duration:12,
         modality:"On Line",
-        img:"../../public/img/Pequeñas empresas.jpg"    
+        img:"./public/img/Pequeñas empresas.jpg"    
     },
     {
         id:"20",
@@ -1035,7 +1035,7 @@ const cursos=[
         ],
         duration:20,
         modality:"On Line",
-        img:"../../public/img/Ventas y desarrollo comercial1.jpg"    
+        img:"./public/img/Ventas y desarrollo comercial1.jpg"    
     },
     {
         id:"21",
@@ -1100,7 +1100,7 @@ const cursos=[
         ],
         duration:5,
         modality:"On Line",
-        img:"../../public/img/blockchain1.jpg"    
+        img:"./public/img/blockchain1.jpg"    
     },
     {
         id:"22",
@@ -1157,7 +1157,7 @@ const cursos=[
         ],
         duration:40,
         modality:"On Line",
-        img:"../../public/img/estudiar-online-ordenador-internet.jpg"    
+        img:"./public/img/estudiar-online-ordenador-internet.jpg"    
     },
     {
         id:"23",
@@ -1210,7 +1210,7 @@ const cursos=[
         ],
         duration:24,
         modality:"On Line",
-        img:"../../public/img/Gestion de Negocios1.jpg"    
+        img:"./public/img/Gestion de Negocios1.jpg"    
     },
     {
         id:"24",
@@ -1255,7 +1255,7 @@ const cursos=[
         ],
         duration:24,
         modality:"On Line",
-        img:"../../public/img/Gestion de Negocios.webp"    
+        img:"./public/img/Gestion de Negocios.webp"    
     },
     {
         id:"25",
@@ -1296,7 +1296,7 @@ const cursos=[
         ],
         duration:3,
         modality:"On Line",
-        img:"../../public/img/Master-en-Business-Analytics-02.jpg"    
+        img:"./public/img/Master-en-Business-Analytics-02.jpg"    
     }
 ];
 

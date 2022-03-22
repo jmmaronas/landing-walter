@@ -14,7 +14,7 @@ function renderCursos() {
             <div id="curso${curso.id}" class="card mb-3 py-2" >
                 <div class="row g-0">
                   <div class="col-md-4 my-auto px-2">
-                    <img src="${curso.img}" class="img-fluid rounded shadow p-3" alt="...">
+                    <img src="../.${curso.img}" class="img-fluid rounded shadow p-3" alt="...">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
