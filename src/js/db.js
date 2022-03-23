@@ -7,19 +7,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Conocer la evolución, alcance, importancia y términos asociados con la metalurgia."
+                description:"Conocer la evolución, alcance, importancia y términos asociados con la metalurgia."
             },
             {
                 id:"2",
-                desciption:"Entender la relevancia de la metalurgia y la metalmecánica en la tecnología e ingeniería."
+                description:"Entender la relevancia de la metalurgia y la metalmecánica en la tecnología e ingeniería."
             },
             {
                 id:"3",
-                desciption:"Comprender los fundamentos básicos de la metalurgia química, física y mecánica."
+                description:"Comprender los fundamentos básicos de la metalurgia química, física y mecánica."
             },
             {
                 id:"4",
-                desciption:"Comprender los principios básicos que rigen los procesos de conformado de piezas metálicas."
+                description:"Comprender los principios básicos que rigen los procesos de conformado de piezas metálicas."
             }
         ],
         units:[
@@ -52,23 +52,23 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Compartir procesos, formas de trabajo y casos de uso relevantes."
+                description:"Compartir procesos, formas de trabajo y casos de uso relevantes."
             },
             {
                 id:"2",
-                desciption:"Entender cómo el cerebro procesa la información de manera visual y cómo la podemos aplicar al análisis y comunicación de datos."
+                description:"Entender cómo el cerebro procesa la información de manera visual y cómo la podemos aplicar al análisis y comunicación de datos."
             },
             {
                 id:"3",
-                desciption:"Definir una serie de buenas prácticas en visualización de datos."
+                description:"Definir una serie de buenas prácticas en visualización de datos."
             },
             {
                 id:"4",
-                desciption:"Conocer los componentes básicos de Python y los entornos de trabajo"
+                description:"Conocer los componentes básicos de Python y los entornos de trabajo"
             },
             {
                 id:"5",
-                desciption:"Entender el impacto de la ciencia de datos en las organizaciones y las diferentes fases de una estrategia Data Driven."
+                description:"Entender el impacto de la ciencia de datos en las organizaciones y las diferentes fases de una estrategia Data Driven."
             }
         ],
         units:[
@@ -87,7 +87,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"./public/img/Business Analytics.webp"
+        img:"./public/img/Business Analytics.jpg"
     },
     {
         id:"3",
@@ -97,15 +97,15 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Tener la capacidad de desarrollar conocimientos y habilidades para realizar los procedimientos y operaciones en su trabajo diario."
+                description:"Tener la capacidad de desarrollar conocimientos y habilidades para realizar los procedimientos y operaciones en su trabajo diario."
             },
             {
                 id:"2",
-                desciption:"Desarrollar saberes Valorativos"
+                description:"Desarrollar saberes Valorativos"
             },
             {
                 id:"3",
-                desciption:"Mejorar relaciones sociales y convivir en el entorno laboral."
+                description:"Mejorar relaciones sociales y convivir en el entorno laboral."
             }
         ],
         units:[
@@ -138,27 +138,27 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Identificar la importancia de la comunicación dentro del proceso de marketing."
+                description:"Identificar la importancia de la comunicación dentro del proceso de marketing."
             },
             {
                 id:"2",
-                desciption:"Conocer como las empresas planifican, implantan y dirigen su fuerza de ventas."
+                description:"Conocer como las empresas planifican, implantan y dirigen su fuerza de ventas."
             },
             {
                 id:"3",
-                desciption:"Diseñar adecuadamente la estrategia de comunicación de una empresa."
+                description:"Diseñar adecuadamente la estrategia de comunicación de una empresa."
             },
             {
                 id:"4",
-                desciption:"Reconocer la importancia de la formación de vendedores."
+                description:"Reconocer la importancia de la formación de vendedores."
             },
             {
                 id:"5",
-                desciption:"Analizar las nuevas tecnologías disponibles para realizar campañas publicitarias."
+                description:"Analizar las nuevas tecnologías disponibles para realizar campañas publicitarias."
             },
             {
                 id:"6",
-                desciption:"Evaluar y mesurar los resultados de una campaña publicitaria."
+                description:"Evaluar y mesurar los resultados de una campaña publicitaria."
             }
         ],
         units:[
@@ -181,7 +181,7 @@ const cursos=[
         ],
         duration:20,
         modality:"On Line",
-        img:"./public/img/Mercadotecnia y Publicidad1.webp"
+        img:"./public/img/Mercadotecnia y Publicidad1.jpg"
     },
     {
         id:"5",
@@ -191,19 +191,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Tener la habilidad para obtener, resumir, interpretar y mostrar datos y parámetros estadísticos. Comenzando por los conceptos básicos se podrá trabajar con datos y poder manejar herramientas computacionales y matemáticas para su análisis y procesamiento"
+                description:"Tener la habilidad para obtener, resumir, interpretar y mostrar datos y parámetros estadísticos. Comenzando por los conceptos básicos se podrá trabajar con datos y poder manejar herramientas computacionales y matemáticas para su análisis y procesamiento"
             },
             {
                 id:"2",
-                desciption:"Adquirir el conocimiento para correlacionar variables."
+                description:"Adquirir el conocimiento para correlacionar variables."
             },
             {
                 id:"3",
-                desciption:"Capacidad de obtener las bases para aplicar un criterio lógico a nivel decisorio y de evaluación de distintos escenarios posibles frente a la probabilidad de ocurrencia de eventos."
+                description:"Capacidad de obtener las bases para aplicar un criterio lógico a nivel decisorio y de evaluación de distintos escenarios posibles frente a la probabilidad de ocurrencia de eventos."
             },
             {
                 id:"4",
-                desciption:"Manejar la información estadística de poblaciones teniendo la posibilidad de discriminar en las distintas situaciones posibles realizando un análisis racional y ético de las observaciones."
+                description:"Manejar la información estadística de poblaciones teniendo la posibilidad de discriminar en las distintas situaciones posibles realizando un análisis racional y ético de las observaciones."
             }
         ],
         units:[
@@ -226,7 +226,7 @@ const cursos=[
         ],
         duration:12,
         modality:"On Line",
-        img:"./public/img/Mercadotecnia y Publicidad.webp"
+        img:"./public/img/Mercadotecnia y Publicidad.jpg"
     },
     {
         id:"6",
@@ -236,19 +236,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Comprender los fundamentos de la logística de distribución y su aplicación en las organizaciones."
+                description:"Comprender los fundamentos de la logística de distribución y su aplicación en las organizaciones."
             },
             {
                 id:"2",
-                desciption:"Aplicar técnicas y herramientas para la preparación de pedidos."
+                description:"Aplicar técnicas y herramientas para la preparación de pedidos."
             },
             {
                 id:"3",
-                desciption:"Aplicar modelos y métricas de inventario adecuado para el almacenamiento de productos en bodegas"
+                description:"Aplicar modelos y métricas de inventario adecuado para el almacenamiento de productos en bodegas"
             },
             {
                 id:"4",
-                desciption:"Aplicar técnicas y herramientas para el diseño del proceso de embalaje de productos."
+                description:"Aplicar técnicas y herramientas para el diseño del proceso de embalaje de productos."
             }
         ],
         units:[
@@ -281,11 +281,11 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Ver el desarrollo continuo de las personas en aquellas competencias vinculadas a las tecnologías de la información y la comunicación."
+                description:"Ver el desarrollo continuo de las personas en aquellas competencias vinculadas a las tecnologías de la información y la comunicación."
             },
             {
                 id:"2",
-                desciption:"Facilitar la inserción laboral y la renovación de las competencias tecnológicas de los estudiantes y de los profesionales."
+                description:"Facilitar la inserción laboral y la renovación de las competencias tecnológicas de los estudiantes y de los profesionales."
             }
         ],
         units:[
@@ -308,7 +308,7 @@ const cursos=[
         ],
         duration:4,
         modality:"On Line",
-        img:"./public/img/Competencias Digitales2.png"    
+        img:"./public/img/Competencias Digitales2.jpg"    
     },
     {
         id:"8",
@@ -318,19 +318,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Capacidad para liderar grupos humanos asignando roles y fijando objetivos desafiantes manteniendo comunicaciones abiertas que minimicen los conflictos laborales y potencien la capacidad de gestión estratégica y la toma de decisiones."
+                description:"Capacidad para liderar grupos humanos asignando roles y fijando objetivos desafiantes manteniendo comunicaciones abiertas que minimicen los conflictos laborales y potencien la capacidad de gestión estratégica y la toma de decisiones."
             },
             {
                 id:"2",
-                desciption:"Habilidad para interpretar los cambios que se producen en el mercado y proponer acciones de marketing acordes a las necesidades de los consumidores."
+                description:"Habilidad para interpretar los cambios que se producen en el mercado y proponer acciones de marketing acordes a las necesidades de los consumidores."
             },
             {
                 id:"3",
-                desciption:"Habilidad de seleccionar e implementar estrategias organizacionales en el ámbito de la gestión empresarial."
+                description:"Habilidad de seleccionar e implementar estrategias organizacionales en el ámbito de la gestión empresarial."
             },
             {
                 id:"4",
-                desciption:"Capacidad para modelar una oportunidad de negocio"
+                description:"Capacidad para modelar una oportunidad de negocio"
             }
         ],
         units:[
@@ -361,7 +361,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"./public/img/Gestion de Negocios.webp"    
+        img:"./public/img/Gestion de Negocios.jpg"    
     },
     {
         id:"9",
@@ -371,27 +371,27 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Identificar la importancia de la comunicación dentro del proceso de marketing."
+                description:"Identificar la importancia de la comunicación dentro del proceso de marketing."
             },
             {
                 id:"2",
-                desciption:"Conocer como las empresas planifican, implantan y dirigen su fuerza de ventas."
+                description:"Conocer como las empresas planifican, implantan y dirigen su fuerza de ventas."
             },
             {
                 id:"3",
-                desciption:"Diseñar adecuadamente la estrategia de comunicación de una empresa."
+                description:"Diseñar adecuadamente la estrategia de comunicación de una empresa."
             },
             {
                 id:"4",
-                desciption:"Reconocer la importancia de la formación de vendedores."
+                description:"Reconocer la importancia de la formación de vendedores."
             },
             {
                 id:"5",
-                desciption:"Analizar las nuevas tecnologías disponibles para realizar campañas publicitarias."
+                description:"Analizar las nuevas tecnologías disponibles para realizar campañas publicitarias."
             },
             {
                 id:"6",
-                desciption:"Evaluar y mesurar los resultados de una campaña publicitaria"
+                description:"Evaluar y mesurar los resultados de una campaña publicitaria"
             }
         ],
         units:[
@@ -414,7 +414,7 @@ const cursos=[
         ],
         duration:16,
         modality:"On Line",
-        img:"./public/img/Mercadotecnia y Publicidad.webp"    
+        img:"./public/img/Mercadotecnia y Publicidad.jpg"    
     },
     {
         id:"10",
@@ -424,19 +424,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Poder elegir y administrar las herramientas que usará tu organización."
+                description:"Poder elegir y administrar las herramientas que usará tu organización."
             },
             {
                 id:"2",
-                desciption:"Utilizar las mejores prácticas para elegir hardware, proveedores y servicios para tu empresa."
+                description:"Utilizar las mejores prácticas para elegir hardware, proveedores y servicios para tu empresa."
             },
             {
                 id:"3",
-                desciption:"Comprender cómo aprovechar al máximo la nube para tu empresa."
+                description:"Comprender cómo aprovechar al máximo la nube para tu empresa."
             },
             {
                 id:"4",
-                desciption:"•	Utilizar el conocimiento de administración de sistemas para planificar y mejorar los procesos para entornos de TI."
+                description:"•	Utilizar el conocimiento de administración de sistemas para planificar y mejorar los procesos para entornos de TI."
             }            
         ],
         units:[
@@ -468,33 +468,33 @@ const cursos=[
     },
     {
         id:"11",
-        title:"CURSO DE E–COMMERCE",
+        title:"CURSO DE E-COMMERCE",
         category:"yoga",
         description: "Comercializar productos por medio del mercadeo digital para expandir el negocio, potenciar el alcance y generar rentabilidad de un negocio.",
         skills:[
             {
                 id:"1",
-                desciption:"Conocer los diferentes modelos de negocio en Internet y e-Commerce"
+                description:"Conocer los diferentes modelos de negocio en Internet y e-Commerce"
             },
             {
                 id:"2",
-                desciption:"Familiarizarse con los conceptos básicos del desarrollo web y e-Commerce"
+                description:"Familiarizarse con los conceptos básicos del desarrollo web y e-Commerce"
             },
             {
                 id:"3",
-                desciption:"Conocer aspectos operacionales del e-Commerce, como la e-logística y la atención al cliente"
+                description:"Conocer aspectos operacionales del e-Commerce, como la e-logística y la atención al cliente"
             },
             {
                 id:"4",
-                desciption:"Utilizar el conocimiento de administración de sistemas para planificar y mejorar los procesos para entornos de TI."
+                description:"Utilizar el conocimiento de administración de sistemas para planificar y mejorar los procesos para entornos de TI."
             },
             {
                 id:"5",
-                desciption:"Conocer los diferentes medios de pago, cuestiones básicas de seguridad, y facturación electrónica"
+                description:"Conocer los diferentes medios de pago, cuestiones básicas de seguridad, y facturación electrónica"
             },
             {
                 id:"6",
-                desciption:"Analizar los aspectos legales relacionados con el comercio electrónico"
+                description:"Analizar los aspectos legales relacionados con el comercio electrónico"
             }            
         ],
         units:[
@@ -536,23 +536,23 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Incrementar las Ventas"
+                description:"Incrementar las Ventas"
             },
             {
                 id:"2",
-                desciption:"Aumentar tu comunidad de seguidores"
+                description:"Aumentar tu comunidad de seguidores"
             },
             {
                 id:"3",
-                desciption:"Crear contenido que conecte con tu publico ideal"
+                description:"Crear contenido que conecte con tu publico ideal"
             },
             {
                 id:"4",
-                desciption:"Técnicas y herramientas practicas para diseño"
+                description:"Técnicas y herramientas practicas para diseño"
             },
             {
                 id:"5",
-                desciption:"Como hacer anuncios de pago en Facebook e Instagram"
+                description:"Como hacer anuncios de pago en Facebook e Instagram"
             }            
         ],
         units:[
@@ -589,23 +589,23 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Planificar de forma adecuada un Almacén / Bodega."
+                description:"Planificar de forma adecuada un Almacén / Bodega."
             },
             {
                 id:"2",
-                desciption:"Manejo apropiado de Stock"
+                description:"Manejo apropiado de Stock"
             },
             {
                 id:"3",
-                desciption:"Sistemas y aplicaciones para Almacenes"
+                description:"Sistemas y aplicaciones para Almacenes"
             },
             {
                 id:"4",
-                desciption:"Costos de Almacenamiento "
+                description:"Costos de Almacenamiento "
             },
             {
                 id:"5",
-                desciption:"Controlar Inventarios"
+                description:"Controlar Inventarios"
             }            
         ],
         units:[
@@ -647,19 +647,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Modelar un Producto deportivo como por Ejemplo Calzados"
+                description:"Modelar un Producto deportivo como por Ejemplo Calzados"
             },
             {
                 id:"2",
-                desciption:"Sacar el mayor provecho de fotos de Estudio "
+                description:"Sacar el mayor provecho de fotos de Estudio "
             },
             {
                 id:"3",
-                desciption:"Crear materiales Para Apoyar el Modelaje"
+                description:"Crear materiales Para Apoyar el Modelaje"
             },
             {
                 id:"4",
-                desciption:"Usar Herramientas Tecnológicas"
+                description:"Usar Herramientas Tecnológicas"
             }            
         ],
         units:[
@@ -701,15 +701,15 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Realizar programacion orientadas a objetos"
+                description:"Realizar programacion orientadas a objetos"
             },
             {
                 id:"2",
-                desciption:"Estructurar sitios web"
+                description:"Estructurar sitios web"
             },
             {
                 id:"3",
-                desciption:"Aprender paso a paso los lenguajes mas populares de la Web."
+                description:"Aprender paso a paso los lenguajes mas populares de la Web."
             }            
         ],
         units:[
@@ -759,19 +759,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Entender las restricciones y soluciones en la gestión actual de almacenes."
+                description:"Entender las restricciones y soluciones en la gestión actual de almacenes."
             },
             {
                 id:"2",
-                desciption:"Enriquecer los conocimientos y contar con las mejores prácticas para el éxito."
+                description:"Enriquecer los conocimientos y contar con las mejores prácticas para el éxito."
             },
             {
                 id:"3",
-                desciption:"Aplicar soluciones tecnológicas y ver los indicadores claves de la gestión."
+                description:"Aplicar soluciones tecnológicas y ver los indicadores claves de la gestión."
             },
             {
                 id:"4",
-                desciption:"Conocer el equipamiento apropiado según el tipo de operación necesaria en la bodega."
+                description:"Conocer el equipamiento apropiado según el tipo de operación necesaria en la bodega."
             }           
         ],
         units:[
@@ -811,7 +811,7 @@ const cursos=[
         ],
         duration:6,
         modality:"On Line",
-        img:"./public/img/Almacenamiento en bodega1.webp"    
+        img:"./public/img/Almacenamiento en bodega.jpg"    
     },
     {
         id:"17",
@@ -821,19 +821,19 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Saber elaborar Planes de Marketing Digital y de Medios Sociales."
+                description:"Saber elaborar Planes de Marketing Digital y de Medios Sociales."
             },
             {
                 id:"2",
-                desciption:"Conocer las herramientas de gestión y monitorización de las Redes Sociales."
+                description:"Conocer las herramientas de gestión y monitorización de las Redes Sociales."
             },
             {
                 id:"3",
-                desciption:"Conocer las métricas de la Analítica Web"
+                description:"Conocer las métricas de la Analítica Web"
             },
             {
                 id:"4",
-                desciption:"Establecer la estrategia de E-commerce, los modelos de negocio y la logística digital."
+                description:"Establecer la estrategia de E-commerce, los modelos de negocio y la logística digital."
             }           
         ],
         units:[
@@ -866,35 +866,35 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Generar conocimiento especializado sobre un sistema de información, tipos y aspectos de seguridad que deben ser tenidos en cuenta."
+                description:"Generar conocimiento especializado sobre un sistema de información, tipos y aspectos de seguridad que deben ser tenidos en cuenta."
             },
             {
                 id:"2",
-                desciption:"Identificar las vulnerabilidades de un sistema de información."
+                description:"Identificar las vulnerabilidades de un sistema de información."
             },
             {
                 id:"3",
-                desciption:"Evaluar el conocimiento en término de ciberseguridad."
+                description:"Evaluar el conocimiento en término de ciberseguridad."
             },
             {
                 id:"4",
-                desciption:"Analizar los servicios y herramientas en cada uno de los ámbitos de seguridad."
+                description:"Analizar los servicios y herramientas en cada uno de los ámbitos de seguridad."
             },
             {
                 id:"5",
-                desciption:"Examinar los certificados digitales."
+                description:"Examinar los certificados digitales."
             },
             {
                 id:"6",
-                desciption:"Analizar los tipos de criptografía según el tipo de algoritmo y según su uso."
+                description:"Analizar los tipos de criptografía según el tipo de algoritmo y según su uso."
             },
             {
                 id:"7",
-                desciption:"Desarrollar las especificaciones de seguridad de cada tecnología"
+                description:"Desarrollar las especificaciones de seguridad de cada tecnología"
             },            
             {
                 id:"8",
-                desciption:"Analizar de forma comparativa la seguridad de las tecnologías"
+                description:"Analizar de forma comparativa la seguridad de las tecnologías"
             }                                     
         ],
         units:[
@@ -939,15 +939,15 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Conocer las mas actuales herramientas de gestión de negocios y aplicarlas en el mismo curso a su empresa en particular."
+                description:"Conocer las mas actuales herramientas de gestión de negocios y aplicarlas en el mismo curso a su empresa en particular."
             },
             {
                 id:"2",
-                desciption:"Conocer y reflexionar sobre su negocio basado en la situación del mercado"
+                description:"Conocer y reflexionar sobre su negocio basado en la situación del mercado"
             },
             {
                 id:"3",
-                desciption:"Lograr tomar las mejores soluciones para la empresa."
+                description:"Lograr tomar las mejores soluciones para la empresa."
             }                                     
         ],
         units:[
@@ -992,23 +992,23 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Lograr comprender la importancia de la venta en el proceso comercial de la organización."
+                description:"Lograr comprender la importancia de la venta en el proceso comercial de la organización."
             },
             {
                 id:"2",
-                desciption:"Conozca la importancia del marketing y sus variables."
+                description:"Conozca la importancia del marketing y sus variables."
             },
             {
                 id:"3",
-                desciption:"Genere herramientas para la prospección y los llamados en frío"
+                description:"Genere herramientas para la prospección y los llamados en frío"
             },
             {
                 id:"4",
-                desciption:"Logre aumentar el caudal de negocios, visitas y el ratio de cierre de ventas"
+                description:"Logre aumentar el caudal de negocios, visitas y el ratio de cierre de ventas"
             },
             {
                 id:"5",
-                desciption:"Utilice en forma fluida las métricas relacionadas con la venta."
+                description:"Utilice en forma fluida las métricas relacionadas con la venta."
             }
         ],
         units:[
@@ -1045,27 +1045,27 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Entender los orígenes de la creación de Blockchain"
+                description:"Entender los orígenes de la creación de Blockchain"
             },
             {
                 id:"2",
-                desciption:"Creación de una Blockchain con Python desde 0"
+                description:"Creación de una Blockchain con Python desde 0"
             },
             {
                 id:"3",
-                desciption:"Conocerás los tokens con todos los detalles."
+                description:"Conocerás los tokens con todos los detalles."
             },
             {
                 id:"4",
-                desciption:"Desarrollo del algoritmo de Hashing que actúa como piedra angular en Blockchain"
+                description:"Desarrollo del algoritmo de Hashing que actúa como piedra angular en Blockchain"
             },
             {
                 id:"5",
-                desciption:"Creación de una Criptomoneda con Python desde 0"
+                description:"Creación de una Criptomoneda con Python desde 0"
             },
             {
                 id:"6",
-                desciption:"Creación de un sistema de pago con Tokens"
+                description:"Creación de un sistema de pago con Tokens"
             }
         ],
         units:[
@@ -1110,23 +1110,23 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Aportar una visión global, estratégica y multidisciplinar."
+                description:"Aportar una visión global, estratégica y multidisciplinar."
             },
             {
                 id:"2",
-                desciption:"Generar habilidades directivas necesarias para el desempeño Empresarial."
+                description:"Generar habilidades directivas necesarias para el desempeño Empresarial."
             },
             {
                 id:"3",
-                desciption:"Incentivar lo innovador como factor estratégico."
+                description:"Incentivar lo innovador como factor estratégico."
             },
             {
                 id:"4",
-                desciption:"Desarrollar habilidades para la gestión del marketing off y online."
+                description:"Desarrollar habilidades para la gestión del marketing off y online."
             },
             {
                 id:"5",
-                desciption:"Reforzar la importancia de la integración, cooperación y ética dentro de la estructura de la empresa."
+                description:"Reforzar la importancia de la integración, cooperación y ética dentro de la estructura de la empresa."
             }
         ],
         units:[
@@ -1167,23 +1167,23 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Dominar las técnicas y fuentes de obtención de información, y profundizar en la creación de un sistema de información de Marketing."
+                description:"Dominar las técnicas y fuentes de obtención de información, y profundizar en la creación de un sistema de información de Marketing."
             },
             {
                 id:"2",
-                desciption:"Definir los diferentes escenarios, determinar las oportunidades y desarrollar la estrategia de marketing adecuada."
+                description:"Definir los diferentes escenarios, determinar las oportunidades y desarrollar la estrategia de marketing adecuada."
             },
             {
                 id:"3",
-                desciption:"Poder Identificar oportunidades, amenazas y posibilidades de cambio dentro del entorno de la empresa."
+                description:"Poder Identificar oportunidades, amenazas y posibilidades de cambio dentro del entorno de la empresa."
             },
             {
                 id:"4",
-                desciption:"Liderar y motivar equipos de trabajo en un entorno globalizado y multicultural."
+                description:"Liderar y motivar equipos de trabajo en un entorno globalizado y multicultural."
             },
             {
                 id:"5",
-                desciption:"Saber cómo debe relacionarse el Departamento de Marketing y Ventas con el resto de la organización para aumentar el valor de la empresa."
+                description:"Saber cómo debe relacionarse el Departamento de Marketing y Ventas con el resto de la organización para aumentar el valor de la empresa."
             }
         ],
         units:[
@@ -1220,15 +1220,15 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Profundizar en cuestiones de todas las operaciones realizadas."
+                description:"Profundizar en cuestiones de todas las operaciones realizadas."
             },
             {
                 id:"2",
-                desciption:"Entender las variables de la operación."
+                description:"Entender las variables de la operación."
             },
             {
                 id:"3",
-                desciption:"Analizar la información y optimizar los procesos."
+                description:"Analizar la información y optimizar los procesos."
             }
         ],
         units:[
@@ -1255,7 +1255,7 @@ const cursos=[
         ],
         duration:24,
         modality:"On Line",
-        img:"./public/img/Gestion de Negocios.webp"    
+        img:"./public/img/Gestion de Negocios.jpg"    
     },
     {
         id:"25",
@@ -1265,15 +1265,15 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                desciption:"Toma de decisiones apropiadas relativas a la gestión financiera de la empresa."
+                description:"Toma de decisiones apropiadas relativas a la gestión financiera de la empresa."
             },
             {
                 id:"2",
-                desciption:"Las fuentes de financiación disponibles en el mercado."
+                description:"Las fuentes de financiación disponibles en el mercado."
             },
             {
                 id:"3",
-                desciption:"Aplicar un análisis financiero de la empresa."
+                description:"Aplicar un análisis financiero de la empresa."
             }
         ],
         units:[
@@ -1297,6 +1297,59 @@ const cursos=[
         duration:3,
         modality:"On Line",
         img:"./public/img/Master-en-Business-Analytics-02.jpg"    
+    },
+    {
+        id:"26",
+        title:"Experto en Comercio Internacional: Contratación, Financiación, Logística y Marketing.",
+        category:"yoga",
+        description: "Este curso permitirá profundizar en la normativa que rige actualmente y el estudio de las principales modalidades contractuales y de financiación aplicables en todas las áreas que intervienen en la gestión comercial internacional.",
+        skills:[
+            {
+                id:"1",
+                description:"Conocer los aspectos fundamentales del comercio internacional."
+            },
+            {
+                id:"2",
+                description:"Analizar las distintas modalidades de financiación internacional, pudiendo determinar las ventajas e inconvenientes que surgen en distintas situaciones"
+            },
+            {
+                id:"3",
+                description:"Conseguir la eficacia de la empresa con una adecuada adopción de decisiones y asunción de riesgos, intervención logística y planificación del marketing."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"Trafico del Comercio y Contratación Internacional"
+            },
+            {
+                id:"3",
+                title:"Financiación Internacional de Empresas."
+            },
+            {
+                id:"4",
+                title:"Gestión y Análisis de Riesgo"
+            },
+            {
+                id:"5",
+                title:"Análisis de Inversiones"
+            },
+            {
+                id:"6",
+                title:"Marketing Internacional"
+            },
+            {
+                id:"7",
+                title:"Legal English for Trade"
+            }
+        ],
+        duration:28,
+        modality:"On Line",
+        img:"./public/img/Experto en Comercio Internacional (1).jpg"    
     }
 ];
 

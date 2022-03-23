@@ -68,7 +68,7 @@ function renderCursos() {
     for (const skill of curso.skills) {
       document.getElementById(
         `skills${curso.id}`
-      ).innerHTML += `<li>${skill.desciption}</li>`;
+      ).innerHTML += `<li>${skill.description}</li>`;
     }
     for (const unit of curso.units) {
       document.getElementById(
