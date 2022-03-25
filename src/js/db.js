@@ -1350,6 +1350,325 @@ const cursos=[
         duration:28,
         modality:"On Line",
         img:"./public/img/Experto en Comercio Internacional (1).jpg"    
+    },
+    {
+        id:"27",
+        title:"CERTIFICADO EN MOBILE MARKETING",
+        category:"yoga",
+        description: "En este curso de Certificado en Mobile Marketing te enseñará sobre las últimas tendencias inherentes al mundo de los dispositivos móviles.",
+        skills:[
+            {
+                id:"1",
+                description:"Conocer el ámbito del Mobile Marketing"
+            },
+            {
+                id:"2",
+                description:"Tener toda la información sobre las últimas tendencias inherentes al mundo de los dispositivos móviles."
+            },
+            {
+                id:"3",
+                description:"Analizar y comparar sistemas operativos para Mobile."
+            },
+            {
+                id:"4",
+                description:"Comprender el uso de las herramientas, sus características, similitudes y diferencias que presenta la implementación de una Aplicación Mobile (app)"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"Mobile 360°"
+            },
+            {
+                id:"3",
+                title:"Mobile First"
+            },
+            {
+                id:"4",
+                title:"Engagement en Mobile"
+            },
+            {
+                id:"5",
+                title:"Mobile para la vida Cotidiana."
+            }            
+        ],
+        duration:12,
+        modality:"On Line",
+        img:"./public/img/mobile marketing.jpg"    
+    },
+    {
+        id:"28",
+        title:"CERTIFICADO EN SOCIAL MEDIA MANAGEMENT",
+        category:"yoga",
+        description: "Este curso te proporcionara la formación necesaria para desempeñarte como Social Media Manager, como todo un profesional de las comunicaciones capaz de liderar un equipo responsable por la definición e implementación de la estrategia en redes sociales de empresas e instituciones.",
+        skills:[
+            {
+                id:"1",
+                description:"Establecer y administrar redes sociales."
+            },
+            {
+                id:"2",
+                description:"Crear calendarios para contenidos en las redes."
+            },
+            {
+                id:"3",
+                description:"Crear contenidos"
+            },
+            {
+                id:"4",
+                description:"Evaluar los rendimientos del contenido en las redes sociales."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Establecer presencia"
+            },
+            {
+                id:"2",
+                title:"Contenido de Redes Sociales"
+            },
+            {
+                id:"3",
+                title:"Gestión de Redes Sociales"
+            }
+        ],
+        duration:12,
+        modality:"On Line",
+        img:"./public/img/social media marketing.jpg"
+    },
+    {
+        id:"29",
+        title:"Curso de Programación Web en entorno al cliente.",
+        category:"yoga",
+        description: "Con este curso de Programación web en entorno al cliente hará que te conviertas en todo un profesional en el mundo de la informática.",
+        skills:[
+            {
+                id:"1",
+                description:"Desarrollar documentos con las herramientas de programación según diseños solicitados por el cliente."
+            },
+            {
+                id:"2",
+                description:"Desarrollar componentes Software en el entorno al cliente"
+            },
+            {
+                id:"3",
+                description:"Desarrollar componentes Multimedia con herramientas y lenguajes específicos."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:" Elaboración de documentos Web"
+            },
+            {
+                id:"2",
+                title:"Desarrollo y reutilización de componentes Software y Multimedia "
+            }
+        ],
+        duration:12,
+        modality:"On Line",
+        img:"./public/img/ProgramaciónWebEntornoCliente.jpg"    
+    },
+    {
+        id:"30",
+        title:"DIPLOMADO EN GERENCIA DE PROYECTOS.",
+        category:"yoga",
+        description: "En este curso te daremos todas las herramientas teóricas y prácticas necesarias para formular y gestionar proyectos eficaces y eficientemente.",
+        skills:[
+            {
+                id:"1",
+                description:"Ser más competente dentro del mercado laboral en administración de proyectos."
+            },
+            {
+                id:"2",
+                description:"Aprender las habilidades requeridas para gestionar proyectos."
+            },
+            {
+                id:"3",
+                description:"Analizar las diferentes alternativas de inversión para optimizar la toma de decisiones."
+            },
+            {
+                id:"4",
+                description:"Elaborar un plan de Gestión de Proyecto."
+            },
+            {
+                id:"5",
+                description:"Conocer las habilidades requeridas por un gestor de proyectos: liderazgo, comunicación, negociación, trabajo en equipo."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Gerencia de Proyectos"
+            },
+            {
+                id:"2",
+                title:"Competencias Transversales"
+            },
+            {
+                id:"3",
+                title:"Competencias Técnicas"
+            },
+            {
+                id:"4",
+                title:"Examen final."
+            }
+        ],
+        duration:16,
+        modality:"On Line",
+        img:"./public/img/Gerencia de proyectos.jpg"    
+    },
+    {
+        id:"31",
+        title:"Estrategia de comunicación para redes sociales.",
+        category:"yoga",
+        description: "Este curso te dará las mejores estrategias para que puedas comunicarte de manera asertiva tanto para el ámbito personal como empresarial.",
+        skills:[
+            {
+                id:"1",
+                description:"Conocer a fondo las redes sociales"
+            },
+            {
+                id:"2",
+                description:"Técnicas de Marketing"
+            },
+            {
+                id:"3",
+                description:"Manejar de forma eficiente las redes sociales"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:" Introducción"
+            },
+            {
+                id:"2",
+                title:"Estrategias de comunicación"
+            },
+            {
+                id:"3",
+                title:"Creación de contenido"
+            },
+            {
+                id:"4",
+                title:"Manejo de Redes sociales"
+            }
+        ],
+        duration:2,
+        modality:"On Line",
+        img:"./public/img/estrategia-en-redes-sociales.png"    
+    },
+    {
+        id:"32",
+        title:"Experto en Comercio Internacional: Contratación, Financiación, Logística y Marketing.",
+        category:"yoga",
+        description: "Este curso permitirá profundizar en la normativa que rige actualmente y el estudio de las principales modalidades contractuales y de financiación aplicables en todas las áreas que intervienen en la gestión comercial internacional.",
+        skills:[
+            {
+                id:"1",
+                description:"Conocer los aspectos fundamentales del comercio internacional."
+            },
+            {
+                id:"2",
+                description:"Analizar las distintas modalidades de financiación internacional, pudiendo determinar las ventajas e inconvenientes que surgen en distintas situaciones"
+            },
+            {
+                id:"3",
+                description:"Conseguir la eficacia de la empresa con una adecuada adopción de decisiones y asunción de riesgos, intervención logística y planificación del marketing."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"Tráfico del Comercio y Contratación Internacional"
+            },
+            {
+                id:"3",
+                title:"Financiación Internacional de Empresas."
+            },
+            {
+                id:"4",
+                title:"Gestión y Análisis de Riesgo"
+            },
+            {
+                id:"5",
+                title:"Análisis de Inversiones"
+            },
+            {
+                id:"6",
+                title:"Marketing Internacional"
+            },
+            {
+                id:"7",
+                title:"Legal English for Trade"
+            }
+        ],
+        duration:28,
+        modality:"On Line",
+        img:"./public/img/Experto en Comercio internacional.jpg"    
+    },
+    {
+        id:"33",
+        title:"GESTIÓN DE RECURSOS HUMANOS Y REMUNERACIONES",
+        category:"yoga",
+        description: "Este curso pretende proporcionar un enfoque general del área de Recursos Humanos y además poder brindarles las herramientas necesarias para realizar pago de salarios como así toda las prestaciones del trabajador.",
+        skills:[
+            {
+                id:"1",
+                description:"Comprender las estructuras organizacionales de una empresa."
+            },
+            {
+                id:"2",
+                description:"Aprender los principios del derecho del trabajo, contratos y licencias especiales."
+            },
+            {
+                id:"3",
+                description:"Comprender el marco legal para llevar a cabo las liquidaciones de manera correcta."
+            },
+            {
+                id:"4",
+                description:"Operar con las modalidades de liquidación mensual y jornal."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción a RRHH"
+            },
+            {
+                id:"2",
+                title:"Selección y reclutamiento de personal."
+            },
+            {
+                id:"3",
+                title:"Normativa laboral en RRHH"
+            },
+            {
+                id:"4",
+                title:"Gestión de planillas de sueldos y prestaciones."
+            },
+            {
+                id:"5",
+                title:"Análisis de Inversiones"
+            },
+            {
+                id:"6",
+                title:"Leyes laborales"
+            }
+        ],
+        duration:28,
+        modality:"On Line",
+        img:"./public/img/Curso Gestion Recursos Humanos.jpg"    
     }
 ];
 
