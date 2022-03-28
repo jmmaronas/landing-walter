@@ -1669,7 +1669,67 @@ const cursos=[
         duration:28,
         modality:"On Line",
         img:"./public/img/Curso Gestion Recursos Humanos.jpg"    
+    },
+    {
+        id:"34",
+        title:"ESPECIALISTA EN FUNDAMENTOS DE METALURGIA EXTRACTIVA",
+        category:"yoga",
+        description: "Curso de Especialista en Fundamentos de Metalurgia Extractiva podrá adquirir los conocimientos esenciales para desempeñar esta labor con éxito. El objetivo primordial de este curso es el de conocer las preparaciones y concentraciones de las materias primas, a la        termodinámica, cinética, electroquímica de los diferentes sistemas representativos de este entorno.",
+        skills:[
+            {
+                id:"1",
+                description:"Adquirir los fundamentos termodinámicos de los procesos de extracción."
+            },
+            {
+                id:"2",
+                description:"Conocer las generalidades de la hidrometalurgia."
+            },
+            {
+                id:"3",
+                description:"Preparar menas."
+            },
+            {
+                id:"4",
+                description:"Conocer la lixiviación bacteriana."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Extracción de los Metales."
+            },
+            {
+                id:"2",
+                title:"Menas Metálicas."
+            },
+            {
+                id:"3",
+                title:"Preparación de Menas"
+            },
+            {
+                id:"4",
+                title:"Fundamentos Termodinámicos."
+            },
+            {
+                id:"5",
+                title:"Operaciones de Fusión."
+            },
+            {
+                id:"6",
+                title:"Hidrometalurgia."
+            },
+            {
+                id:"7",
+                title:"Lixiviación Bacteriana."
+            },
+            {
+                id:"8",
+                title:"Afino de Metales."
+            }
+        ],
+        duration:16,
+        modality:"On Line",
+        img:"./public/img/ESPECIALISTA EN FUNDAMENTOS DE METALURGIA EXTRACTIVA (3).jpg"    
     }
 ];
 
-export default cursos;

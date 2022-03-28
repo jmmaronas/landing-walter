@@ -2,7 +2,6 @@
 
 #textLogo{
     font-family: "Padauk", sans-serif;
-    
 }
 
 .header{
@@ -35,9 +34,8 @@
     z-index: 1000;
 }
 
-i img{
+.bordeLogo{
     border: solid 3px rgb(55, 90, 90);
-    border-radius: 50%;
 }
 .img-box{
     width: 6rem;
@@ -56,3 +54,9 @@ form{
     padding: 3rem;
     margin-top: 10rem;
 }
+
+@media screen and (max-width: 1080px) {
+    .bordeLogo {
+      display: none;
+    }
+  } 

@@ -1,5 +1,3 @@
-import cursos from "./db.js";
-
 document.addEventListener("DOMContentLoaded", () => {
   renderCursos();
   renderCards();
@@ -30,7 +28,7 @@ function renderCursos() {
                         <button type="button" class="btn btn-success d-flex px-lg-3 mx-1" data-bs-toggle="modal" data-bs-target="#exampleModal${curso.id}">
                         + Info
                         </button>
-                        <button type="button" class="btn btn-primary px-lg-4 mx-2">comprar</button>
+                        <button type="button" class="btn btn-primary px-lg-4 mx-2">Comprar</button>
                         <button type="button" class="btn btn-secondary px-lg-4 mx-2">Agregar al carrito</button>
                     </div>
                     <!-- Modal -->
