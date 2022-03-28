@@ -1,10 +1,18 @@
 document.addEventListener("DOMContentLoaded", () => {
-  renderCards();
+  if(location.hash){
+    console.log("hola")
+    const pharam= location.hash.slice(1);
+    document.getElementById("comentarioHeader").innerHTML=""
+    const curso= cursos.find((e)=>e.id===pharam)
+    mostrarItem(curso)
+  }else{
+    renderCards();
+  }
 });
 
 const cardsContiner = document.getElementById("cardsContainer");
 
-function renderCards() {  
+function renderCards() {
   cardsContiner.innerHTML = "";
   for (const curso of cursos) {
     cardsContiner.innerHTML += `
@@ -26,16 +34,5 @@ function renderCards() {
         </div>
       </div>
       `;
-      console.log("detalles"+curso.id)
-      document.getElementById("detalles"+curso.id).addEventListener("click",(e)=>{
-        console.log(e.target)
-        e.preventDefault();
-        const pharam= location.hash.slice(1);
-        console.log(pharam);
-        const curso= cursos.find((e)=>e.id===pharam)
-        mostrarItem(curso);
-      });
-    
-      //document.getElementById()
   }
 }

@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   renderCursos();
-  renderCards();
+  
 });
 
 const cursosContainer = document.querySelector("#cursosContainer");
@@ -25,11 +25,19 @@ function renderCursos() {
             
                     <!-- Button trigger modal -->
                     <div class="d-flex">
-                        <button type="button" class="btn btn-success d-flex px-lg-3 mx-1" data-bs-toggle="modal" data-bs-target="#exampleModal${curso.id}">
+                        <button type="button" class="btn btn-secondary d-flex px-lg-3 mx-1" data-bs-toggle="modal" data-bs-target="#exampleModal${curso.id}">
                         + Info
                         </button>
-                        <button type="button" class="btn btn-primary px-lg-4 mx-2">Comprar</button>
-                        <button type="button" class="btn btn-secondary px-lg-4 mx-2">Agregar al carrito</button>
+                        <a type="button" class="btn btn-success px-lg-4 mx-2" href="https://api.whatsapp.com/send?phone=50766569592">
+                          <i class="bi bi-whatsapp d-flex align-items-center">
+                            <p class="ms-2 my-auto">Contratalo</p>
+                          </i>
+                        </a>
+                        <a type="button" class="btn btn-primary px-lg-4 mx-2" href="mailto:chronoscapacitaciones@gmail.com">
+                          <i class="bi bi-envelope d-flex align-items-center">
+                            <p class="ms-2 my-auto">Contratalo</p>
+                          </i>
+                        </a>
                     </div>
                     <!-- Modal -->
                     <div class="modal fade" id="exampleModal${curso.id}" tabindex="-1" aria-labelledby="exampleModalLabel${curso.id}" aria-hidden="true">
