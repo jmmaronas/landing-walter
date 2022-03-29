@@ -1,11 +1,11 @@
 const principal = document.getElementById("principal");
 
-function mostrarItem(curso){
-    principal.innerHTML="";
-    principal.innerHTML=`
+function mostrarItem(curso) {
+  principal.innerHTML = "";
+  principal.innerHTML = `
         <div class="container d-flex justify-content-center">
             <div class="card mb-3">
-                <img src="${curso.img}" class="card-img-top" alt="...">
+                <img src="${curso.img}" class="card-img-top" alt="${curso.img}" autofocus>
                 <div class="card-body">
                     <h5 class="card-title">${curso.title}</h5>
                     <p class="card-text">${curso.description}</p>
@@ -17,7 +17,7 @@ function mostrarItem(curso){
                     <p class="card-text">Modalidad: ${curso.modality}</p>
                     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
-                <div class="d-flex mb-2">
+                <div class="d-flex mb-3">
                   <a type="button" class="btn btn-success px-lg-4 mx-2" href="https://api.whatsapp.com/send?phone=50766569592">
                     <i class="bi bi-whatsapp d-flex align-items-center">
                       <p class="ms-2 my-auto">Contratalo</p>
@@ -34,22 +34,22 @@ function mostrarItem(curso){
             
         </div>
     `;
-    for (const skill of curso.skills) {
-        document.getElementById(
-          `skills${curso.id}`
-        ).innerHTML += `<li>${skill.description}</li>`;
-      }
-      for (const unit of curso.units) {
-        document.getElementById(
-          `units${curso.id}`
-        ).innerHTML += `<li>${unit.title}</li>`;
-      }    
+  for (const skill of curso.skills) {
+    document.getElementById(
+      `skills${curso.id}`
+    ).innerHTML += `<li>${skill.description}</li>`;
+  }
+  for (const unit of curso.units) {
+    document.getElementById(
+      `units${curso.id}`
+    ).innerHTML += `<li>${unit.title}</li>`;
+  }  
 }
 
-window.addEventListener("hashchange", (e)=>{
-    const pharam= location.hash.slice(1);
-    //document.getElementsByClassName("header").style.backgroundImage=""
-    document.getElementById("comentarioHeader").innerHTML=""
-    const curso= cursos.find((e)=>e.id===pharam)
-    mostrarItem(curso)
-})
+window.addEventListener("hashchange", (e) => {
+  const pharam = location.hash.slice(1);
+  //document.getElementsByClassName("header").style.backgroundImage=""
+  document.getElementById("comentarioHeader").innerHTML = "";
+  const curso = cursos.find((e) => e.id === pharam);
+  mostrarItem(curso);
+});

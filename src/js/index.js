@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  if(location.hash){
-    console.log("hola")
+  if(location.hash){    
     const pharam= location.hash.slice(1);
     document.getElementById("comentarioHeader").innerHTML=""
     const curso= cursos.find((e)=>e.id===pharam)
