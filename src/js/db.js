@@ -1807,6 +1807,47 @@ const cursos=[
         duration:40,
         modality:"On Line",
         img:"./public/img/Curso Business Intelligence.jpg"    
+    },
+    {
+        id:"36",
+        title:"Especialización de Curso de WordPress",
+        category:"yoga",
+        description: "Este curso va dirigido a las personas que desean profundizar en el desarrollo de página Web en WordPress (carro de compras, usuarios, plantillas, formularios).",
+        skills:[
+            {
+                id:"1",
+                description:"Construir Páginas web para clientes en WordPress"
+            },
+            {
+                id:"2",
+                description:"Administrar las páginas Web"
+            },
+            {
+                id:"3",
+                description:"Todo lo relacionado al mundo WordPress"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción a WordPress"
+            },
+            {
+                id:"2",
+                title:"Gestión y creación de contenido"
+            },
+            {
+                id:"3",
+                title:"Características con Plugin"
+            },
+            {
+                id:"4",
+                title:"Web a producción"
+            }
+        ],
+        duration:4,
+        modality:"On Line",
+        img:"./public/img/Especialización de Curso de WordPress.jpg"    
     }
 ];
 
