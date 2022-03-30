@@ -7,28 +7,28 @@ function mostrarItem(curso) {
             <div class="card mb-3">
                 <img src="${curso.img}" class="card-img-top" alt="${curso.img}" autofocus>
                 <div class="card-body">
-                    <h5 class="card-title">${curso.title}</h5>
+                    <h3 class="card-title">${capitalize(curso.title)}</h3>
                     <p class="card-text">${curso.description}</p>
-                    <h6 class="card-title">Al finalizar el curso podras:</h6>
+                    <h5 class="card-title">Al finalizar el curso podras:</h5>
                     <ul id="skills${curso.id}"></ul>
-                    <h6 class="card-title">Unidades:</h6>
+                    <h5 class="card-title">Unidades:</h5>
                     <ol id="units${curso.id}"></ol>
                     <p class="card-text">Duracion: ${curso.duration} semanas</p>
                     <p class="card-text">Modalidad: ${curso.modality}</p>
                     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
                 <div class="d-flex mb-3">
-                  <a type="button" class="btn btn-success px-lg-4 mx-2" href="https://api.whatsapp.com/send?phone=50766569592">
+                  <a type="button" class="btn btn-success px-2 px-lg-4 mx-1 mx-lg-3 " href="https://api.whatsapp.com/send?phone=50766569592">
                     <i class="bi bi-whatsapp d-flex align-items-center">
                       <p class="ms-2 my-auto">Contratalo</p>
                     </i>
                   </a>
-                  <a type="button" class="btn btn-primary px-lg-4 mx-2" href="mailto:chronoscapacitaciones@gmail.com">
+                  <a type="button" class="btn btn-primary px-2 px-lg-4 mx-1 mx-lg-3" href="mailto:chronoscapacitaciones@gmail.com">
                     <i class="bi bi-envelope d-flex align-items-center">
                       <p class="ms-2 my-auto">Contratalo</p>
                     </i>
                   </a>
-                  <a type="button" href="./index.html" class="btn btn-secondary px-lg-4 mx-2">Cerrar</a>
+                  <a type="button" href="./index.html" class="btn btn-secondary px-2 px-lg-4 mx-1 mx-lg-3">Cerrar</a>
                 </div>
             </div>
             

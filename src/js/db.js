@@ -1848,6 +1848,132 @@ const cursos=[
         duration:4,
         modality:"On Line",
         img:"./public/img/Especialización de Curso de WordPress.jpg"    
+    },
+    {
+        id:"35",
+        title:"Alta Dirección de Marketing, Experto en Business Intelligence.",
+        category:"yoga",
+        description: "Este curso va dirigido a profesionales que buscan una propuesta única en el ambito empresarial y en la alta Dirección de Marketing.",
+        skills:[
+            {
+                id:"1",
+                description:"Mejorar tu visión estratégica de la empresa"
+            },
+            {
+                id:"2",
+                description:"Liderar con éxito a equipos de marketing"
+            },
+            {
+                id:"3",
+                description:"Analizar los resultados obtenidos y llegar a conclusiones útiles"
+            },
+            {
+                id:"4",
+                description:"Saber identificar a las empresas competidoras y así poder crear estrategias claras."
+            },
+            {
+                id:"5",
+                description:"Realizar investigaciones de mercado"
+            },
+            {
+                id:"6",
+                description:"Evaluar y gestionar los riesgos de los proyectos de Big Data"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Management y Liderazgo"
+            },
+            {
+                id:"2",
+                title:"Logística y Gestión"
+            },
+            {
+                id:"3",
+                title:"Marketing Operativo"
+            },
+            {
+                id:"4",
+                title:"Customer relationship management"
+            },
+            {
+                id:"5",
+                title:"E-Commerce"
+            },
+            {
+                id:"6",
+                title:"Producción de la investigación de mercados"
+            },
+            {
+                id:"7",
+                title:"Análisis de la investigación de mercados."
+            },
+            {
+                id:"8",
+                title:"Business Intelligence en la Empresa"
+            },
+            {
+                id:"9",
+                description:"Programación para el análisis de datos"
+            },
+            {
+                id:"10",
+                description:"Optimización del Capital Humano en la Empresa"
+            }
+        ],
+        duration:40,
+        modality:"On Line",
+        img:"./public/img/Curso Business Intelligence.jpg"    
+    },
+    {
+        id:"37",
+        title:"Planeamiento y Pronostico de la Demanda",
+        category:"yoga",
+        description: "Este curso les brindara una visión integral de la planificación de la demanda, conocer las técnicas y herramientas para mejorar el nivel de exactitud en donde sea aplicada.",
+        skills:[
+            {
+                id:"1",
+                description:"Tener un conocimiento más exacto."
+            },
+            {
+                id:"2",
+                description:"Utilizar las herramientas y técnicas."
+            },
+            {
+                id:"3",
+                description:"Acercarte al punto de mejora en la exactitud de la planificación."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:" Modelo Scor y Proceso S&OP"
+            },
+            {
+                id:"2",
+                title:"KpI's en planeamiento & Supply Chain"
+            },
+            {
+                id:"3",
+                title:"Modelos de Planeamiento"
+            },
+            {
+                id:"4",
+                title:"Relación modelos S&OP IBP"
+            }
+        ],
+        duration:3,
+        modality:"On Line",
+        img:"./public/img/Planeamiento y Pronostico de la Demanda.jpg"    
     }
 ];
 
+function capitalize(string){
+    const result=string.toLowerCase()
+    .split(' ')
+    .map(strWord => strWord.length>=3?strWord.substring(0, 1)
+                    .toUpperCase() + strWord.substring(1, strWord.length):strWord)
+    .join(' ');
+    return result
+}

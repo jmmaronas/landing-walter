@@ -23,7 +23,7 @@ function renderCards() {
           <div class="card-body p-2">
               <div class="text-center">
                   <!-- Product name-->
-                  <h6 class="fw-bold">${curso.title}</h6>                  
+                  <h6 class="fw-bold">${capitalize(curso.title)}</h6>                  
               </div>
           </div>
           <!-- Product actions-->

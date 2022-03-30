@@ -16,7 +16,7 @@ function renderCursos() {
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
-                      <h5 class="card-title">${curso.title}</h5>
+                      <h5 class="card-title">${capitalize(curso.title)}</h5>
                       <p class="card-text">${curso.description}</p>
                       <p class="card-text">Duracion: ${curso.duration} semanas</p>
                       <p class="card-text">Modalidad: ${curso.modality}</p>
@@ -26,7 +26,7 @@ function renderCursos() {
                     <!-- Button trigger modal -->
                   <div class="d-flex">
                       <button type="button" class="btn btn-secondary d-flex px-lg-3 mx-1" data-bs-toggle="modal" data-bs-target="#exampleModal${curso.id}">
-                      + Info
+                      +Info
                       </button>
                       <a type="button" class="btn btn-success px-lg-4 mx-2" href="https://api.whatsapp.com/send?phone=50766569592">
                         <i class="bi bi-whatsapp d-flex align-items-center">
@@ -44,7 +44,7 @@ function renderCursos() {
                     <div class="modal-dialog">
                       <div class="modal-content">
                       <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel${curso.id}">${curso.title}</h5>
+                        <h5 class="modal-title" id="exampleModalLabel${curso.id}">${capitalize(curso.title)}</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                       </div>
                       <div class="modal-body">
@@ -61,12 +61,12 @@ function renderCursos() {
                           </div>
                         </div>
                         <div class="modal-footer">
-                          <a type="button" class="btn btn-success px-lg-4 mx-2" href="https://api.whatsapp.com/send?phone=50766569592">
+                          <a type="button" class="btn btn-success px-lg-4 mx-1 mx-lg-3" href="https://api.whatsapp.com/send?phone=50766569592">
                             <i class="bi bi-whatsapp d-flex align-items-center">
                               <p class="ms-2 my-auto">Contratalo</p>
                             </i>
                           </a>
-                          <a type="button" class="btn btn-primary px-lg-4 mx-2" href="mailto:chronoscapacitaciones@gmail.com">
+                          <a type="button" class="btn btn-primary px-lg-4 mx-1 mx-lg-3" href="mailto:chronoscapacitaciones@gmail.com">
                             <i class="bi bi-envelope d-flex align-items-center">
                               <p class="ms-2 my-auto">Contratalo</p>
                             </i>
