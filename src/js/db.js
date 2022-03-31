@@ -1850,7 +1850,7 @@ const cursos=[
         img:"./public/img/Especialización de Curso de WordPress.jpg"    
     },
     {
-        id:"35",
+        id:"37",
         title:"Alta Dirección de Marketing, Experto en Business Intelligence.",
         category:"yoga",
         description: "Este curso va dirigido a profesionales que buscan una propuesta única en el ambito empresarial y en la alta Dirección de Marketing.",
@@ -1927,7 +1927,7 @@ const cursos=[
         img:"./public/img/Curso Business Intelligence.jpg"    
     },
     {
-        id:"37",
+        id:"38",
         title:"Planeamiento y Pronostico de la Demanda",
         category:"yoga",
         description: "Este curso les brindara una visión integral de la planificación de la demanda, conocer las técnicas y herramientas para mejorar el nivel de exactitud en donde sea aplicada.",
@@ -1966,6 +1966,238 @@ const cursos=[
         duration:3,
         modality:"On Line",
         img:"./public/img/Planeamiento y Pronostico de la Demanda.jpg"    
+    },
+    {
+        id:"39",
+        title:"CERTIFICACIÓN EN DESARROLLO DE HABILIDADES DIRECTIVAS.",
+        category:"yoga",
+        description: "En este curso podrás elevar tu potencial para dirigir una organización, a través del liderazgo, sus estrategias de negociación y desarrollo del talento humano.",
+        skills:[
+            {
+                id:"1",
+                description:"Implementar estrategias en la organización"
+            },
+            {
+                id:"2",
+                description:"Liderar equipos"
+            },
+            {
+                id:"3",
+                description:"Mejorar la gestión del talento humano"
+            },
+            {
+                id:"4",
+                description:"Resolver conflictos de manera adecuada"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Figura del director de Empresa."
+            },
+            {
+                id:"2",
+                title:"La negociación en el ámbito empresarial."
+            },
+            {
+                id:"3",
+                title:"Gestión de Liderazgo."
+            },
+            {
+                id:"4",
+                title:"Resolución de conflictos y motivación al personal."
+            },
+            {
+                id:"5",
+                description:"La comunicación y la importancia en la empresa."
+            }
+        ],
+        duration:4,
+        modality:"On Line",
+        img:"./public/img/habilidades directivas.jpg"    
+    },
+    {
+        id:"40",
+        title:"Técnico en Informática, Redes y Telecomunicaciones",
+        category:"yoga",
+        description: "Este curso está dirigido a formar profesionales desarrollando la capacidad de trabajar de forma interdisciplinaria en la planeación, gestión de proyectos informáticos y de nuevas tecnologías.",
+        skills:[
+            {
+                id:"1",
+                description:"Resolver problemas que puedan plantearse sobre Álgebra, métodos numéricos y estadísticas."
+            },
+            {
+                id:"2",
+                description:"Tener conocimientos básicos sobre el uso y programación de computadoras."
+            },
+            {
+                id:"3",
+                description:"Obtener fundamentos físicos de la informática"
+            },
+            {
+                id:"4",
+                description:"Conocer tecnologías de red, gráficos y multimedia."
+            },
+            {
+                id:"5",
+                description:"Conocer de sistemas electrónicos y digitales"
+            },
+            {
+                id:"6",
+                description:"Desarrollar e implementar sistemas en computadoras"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Tecnologías de la información y la comunicación"
+            },
+            {
+                id:"2",
+                title:"Fundamentos de la programación"
+            },
+            {
+                id:"3",
+                title:"Programación I y II"
+            },
+            {
+                id:"4",
+                title:"Sistemas operativos"
+            },
+            {
+                id:"5",
+                description:"Análisis y diseños de Redes."
+            },
+            {
+                id:"6",
+                description:"Comunicación Móvil."
+            },
+            {
+                id:"7",
+                description:"Trabajo final"
+            }
+        ],
+        duration:48,
+        modality:"On Line",
+        img:"./public/img/Técnico en Informática, Redes y Telecomunicaciones.jpg"    
+    },
+    {
+        id:"41",
+        title:"Diseño y Creación de Páginas WEB",
+        category:"yoga",
+        description:"Este curso te dará la posibilidad de diseñar páginas web atractivas y de una forma profesional para desarrollar tu potencial profesional.",
+        skills:[
+            {
+                id:"1",
+                description:"Crear paginas web "
+            },
+            {
+                id:"2",
+                description:"Saber programar en JavaScript"
+            },
+            {
+                id:"3",
+                description:"Realizar diseño Responsive Design"
+            },
+            {
+                id:"4",
+                description:"Definir el Diseño y Usabilidad de una página web"
+            },
+            {
+                id:"5",
+                description:"Entender todo el proceso de creación y realizar una buena metodología de trabajo."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"HTML5"
+            },
+            {
+                id:"3",
+                title:"CSS3"
+            },
+            {
+                id:"4",
+                title:"Efectos y Animaciones CSS3"
+            },
+            {
+                id:"5",
+                description:"Diseño y Usabilidad"
+            },
+            {
+                id:"6",
+                description:"Metodología de trabajo"
+            },
+            {
+                id:"7",
+                description:"Trabajo final"
+            }
+        ],
+        duration:6,
+        modality:"On Line",
+        img:"./public/img/diseño Web (2).jpg"    
+    },
+    {
+        id:"42",
+        title:"Ejecutivo de Inversiones y Finanzas",
+        category:"yoga",
+        description:"Este curso te brindará conocimientos de la función financiera, que harán que a lo largo del curso puedas ir resolviendo problemas más complejos, te brindaremos los instrumentos que te permitirán analizar y podrás aplicarlos en cualquier situación que aparezca.",
+        skills:[
+            {
+                id:"1",
+                description:"Crear paginas web "
+            },
+            {
+                id:"2",
+                description:"Saber programar en JavaScript"
+            },
+            {
+                id:"3",
+                description:"Realizar diseño Responsive Design"
+            },
+            {
+                id:"4",
+                description:"Definir el Diseño y Usabilidad de una página web"
+            },
+            {
+                id:"5",
+                description:"Entender todo el proceso de creación y realizar una buena metodología de trabajo."
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"Introducción"
+            },
+            {
+                id:"2",
+                title:"Decisiones estratégicas de inversión"
+            },
+            {
+                id:"3",
+                title:"Valoración de Activos"
+            },
+            {
+                id:"4",
+                title:"Análisis económico"
+            },
+            {
+                id:"5",
+                description:"Mercados financieros"
+            },
+            {
+                id:"6",
+                description:"Derivados"
+            }
+        ],
+        duration:5,
+        modality:"On Line",
+        img:"./public/img/Ejecutivo de Inversiones y Finanzas.jpg"    
     }
 ];
 
