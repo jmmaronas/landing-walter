@@ -44,6 +44,7 @@ function mostrarItem(curso) {
       `units${curso.id}`
     ).innerHTML += `<li>${unit.title}</li>`;
   }  
+  window.scroll({top:0})
 }
 
 window.addEventListener("hashchange", (e) => {
