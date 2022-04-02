@@ -2150,23 +2150,15 @@ const cursos=[
         skills:[
             {
                 id:"1",
-                description:"Crear paginas web "
+                description:"Profesionalizarte en el mundo de las finanzas mediante herramientas y nuevos conocimientos"
             },
             {
                 id:"2",
-                description:"Saber programar en JavaScript"
+                description:"Asesorar de mejor manera a los clientes"
             },
             {
                 id:"3",
-                description:"Realizar diseño Responsive Design"
-            },
-            {
-                id:"4",
-                description:"Definir el Diseño y Usabilidad de una página web"
-            },
-            {
-                id:"5",
-                description:"Entender todo el proceso de creación y realizar una buena metodología de trabajo."
+                description:"Conocer las nuevas normativas"
             }
         ],
         units:[
