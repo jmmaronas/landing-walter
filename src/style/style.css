@@ -1,54 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;1,300&display=swap');
 
-#textLogo{
+
+
+#textLogo {
     font-family: "Padauk", sans-serif;
 }
 
-.header{
+.header {
     position: relative;
-    width: 100%;    
+    width: 100%;
     background-image: url("../../public/img/foto de cursos.jpg");
     background-position: center;
     filter: brightness(0.9);
     z-index: 1000;
 }
-.header::before{
-    content:'';
-	position: absolute;
+
+.header::before {
+    content: '';
+    position: absolute;
     top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background-color: rgba(0,0,0,0.5);
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
     background-size: cover;
-    z-index: -1;        
+    z-index: -1;
 }
 
-.header p{
+.header p {
     color: white;
 }
-.header .navbar{
+
+.header .navbar {
     opacity: 0.9;
     position: absolute;
     background-color: #e3f2fd;
     z-index: 1000;
 }
 
-.bordeLogo{
+.bordeLogo {
     border: solid 3px rgb(55, 90, 90);
 }
-.img-box{
+
+.img-box {
     width: 6rem;
     height: 6rem;
     border: solid 1px black;
     border-radius: 5px;
 }
 
-#cursosContainer{
+#cursosContainer {
     margin-top: 2rem;
 }
 
-form{
+h1{
+    font-family: "Padauk", sans-serif;
+    font-weight: bolder;
+}
+
+.presentacion{
+    font-family:'Roboto Condensed', sans-serif;
+    font-size: 1.50rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+form {
     border: solid 1px grey;
     border-radius: 5px;
     padding: 3rem;
@@ -57,6 +75,9 @@ form{
 
 @media screen and (max-width: 1080px) {
     .bordeLogo {
-      display: none;
+        display: none;
     }
-  } 
+    .presentacion{
+        font-size: 0.90rem;
+    }
+}
