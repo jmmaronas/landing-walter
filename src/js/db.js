@@ -2180,11 +2180,11 @@ const cursos=[
             },
             {
                 id:"5",
-                description:"Mercados financieros"
+                title:"Mercados financieros"
             },
             {
                 id:"6",
-                description:"Derivados"
+                title:"Derivados"
             }
         ],
         duration:5,
