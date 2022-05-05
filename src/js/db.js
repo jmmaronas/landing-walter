@@ -2190,6 +2190,67 @@ const cursos=[
         duration:5,
         modality:"On Line",
         img:"./public/img/Ejecutivo de Inversiones y Finanzas.jpg"    
+    },
+    {
+        id:"43",
+        title:"Taller Principios en Administraciòn de Proyectos",
+        category:"yoga",
+        description:"El taller tiene el propósito de actualizar a los participantes en todas las fases que conlleva la realización de un proyecto desde porque se genera en la empresa la idea del proyecto, la iniciación y planificación, la estructura del proyecto, los cambios en la organización para analizar los éxitos o fracasos y los métodos de ejecución, control y cierre del proyecto",
+        skills:[
+            {
+                id:"1",
+                description:"Concepción y estrategia del proyecto inicial: elegir los proyectos adecuados y de impacto positivo, definir la estrategia, y gestionar el inicio del proyecto."
+            },
+            {
+                id:"2",
+                description:"Planificación del proyecto: desarrollar un plan práctico y ejecutable mediante el desarmado del proyecto en partes cuidadosamente analizadas."
+            },
+            {
+                id:"3",
+                description:"Ejecución del proyecto: asegurar que el proyecto se lleve a cabo de acuerdo a la estrategia planificada. Armar el equipo adecuado. Respetar los tiempos establecidos en el calendario."
+            },
+            {
+                id:"4",
+                description:"Gestión de riesgos: lidiar con oportunidades y riesgos inesperados y adaptar el proyecto en base a ellos. Preparar un plan b y crear estrategias de mitigación, estableciendo nuevos márgenes de tiempo y recursos."
+            },
+            {
+                id:"5",
+                description:"Conclusión del proyecto: a partir de la evaluación pos-proyecto y el aprendizaje organizativo que brinda, ajustar y reutilizar las estrategias de gestión para futuros proyectos"
+            }
+        ],
+        units:[
+            {
+                id:"1",
+                title:"ACTIVIDADES TIPO TEST"
+            },
+            {
+                id:"2",
+                title:"ENSAYOS"
+            },
+            {
+                id:"3",
+                title:"PROYECTOS"
+            },
+            {
+                id:"4",
+                title:"ACTIVIDAD PLAN DE ACCIÓN"
+            },
+            {
+                id:"5",
+                title:"CONTENIDO EN VIDEO IMPARTIDO POR EL CLAUSTRO DE PROFESORES DE MIT Y POR EXPERTOS EN DISTINTAS INDUSTRIAS "
+            },
+            {
+                id:"6",
+                title:"WEBINAR EN DIRECTO"
+            },
+            {
+                id:"7",
+                title:"BIBLIOGRAFÍA ADICIONAL RECOMENDADA "
+            }
+        ],
+        duration:5,
+        modality:"On Line",
+        img:"./public/img/TALLER PRINCIPIOS EN ADMINISTRACIÓN DE PROYECTOS.jpg"    
     }
 ];
 
