@@ -2491,6 +2491,55 @@ const cursos=[
         duration: 32,
         modality: "On Line",
         img: "./public/img/Curso de Logística y Distribución aplicada al Comercio Electrónico.jpg"
+    },
+    {
+        id: "48",
+        title: "Maestría Oficial en Big Data y Ciencia de Datos",
+        category: "yoga",
+        description: "El aumento de las tecnologías de la información, redes sociales, sensores, aplicaciones móviles, y almacenamiento en la nube, requiere de profesionales capaces de saber cómo está almacenada la información y así procesarla y analizarla adecuadamente. Es por esto que actualmente empresas de muchos países requieren de talentos Big Data en todos sus niveles.",
+        skills: [
+            {
+                id: "1",
+                description: "Desarrollo de habilidades de programación en R para métodos estadísticos y Python para Machine Learning."
+            },
+            {
+                id: "2",
+                description: "Desarrollo de prácticas en plataformas tecnológicas como AWS, BigML, Tableau, Hadoop, MongoDB."
+            },
+            {
+                id: "3",
+                description:"Actividades relacionadas con la gestión y recuperación de información utilizando sistemas gestores de Bases de Datos Relacionales y NoSQL."
+            },
+            {
+                id: "4",
+                description:"Procesamiento distribuido de datos y aplicación de los modelos MapReduce y Spark. Configuración del framework hadoop y utilización de contenedores."
+            },
+            {
+                id: "5",
+                description:"Visualización y técnicas de reporting para evaluación de modelos de clasificación y procesos de negocio."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "El primer módulo desarrolla los contenidos de la parte computacional o de procesamiento de Big Data. Por tanto, se enfoca al desarrollo de la infraestructura, almacenamiento y procesamiento de información."
+            },
+            {
+                id: "2",
+                title: "El segundo módulo tiene como objetivo el desarrollo del estudiante en la parte analítica de la ciencia de datos, enfocándose a la parte de tratado, limpieza y entendimiento de datos, aplicación algorítmica y visualización."
+            },
+            {
+                id: "3",
+                title: "El tercer módulo se desarrolla alrededor del concepto de Business Intelligence, enfatizando en la recepción y aplicación práctica de la información."
+            },
+            {
+                id: "4",
+                title: "El cuarto módulo se completa con la elección de una de las asignaturas optativas propuestas para el desarrollo de las competencias específicas en gestión de proyectos de Big Data, Cloud Computing o Deep Learning."
+            }
+        ],
+        duration: 24,
+        modality: "On Line",
+        img: "./public/img/Maestría Oficial en Big Data y Ciencia de Datos.jpg"
     }
 ];
 
