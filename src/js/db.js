@@ -2251,6 +2251,246 @@ const cursos=[
         duration:5,
         modality:"On Line",
         img:"./public/img/TALLER PRINCIPIOS EN ADMINISTRACIÓN DE PROYECTOS.jpg"    
+    },
+    {
+        id: "44",
+        title: "DIPLOMADO EN GESTIÓN DEL TALENTO HUMANO POR COMPETENCIAS",
+        category: "yoga",
+        description: "El Diplomado en Gestión del Talento Humano que incluye las competencias brinda la especialidad, en el área del activo más valioso de las organizaciones, el Capital Humano. Producir con calidad y al menor costo y llegar al mercado en su momento oportuno requiere el desarrollo del personal en determinadas competencias que conduzcan a la adquisición y aplicación racional de los recursos, a su debido procesamiento y a la distribución de productos y servicios que generen suficientes márgenes de utilidad como para seguir compitiendo en el mercado.",
+        skills: [
+            {
+                id: "1",
+                description: "El diplomado brinda herramientas de formación al estudiante para el desarrollo de competencias relacionadas con la gestión del talento humano en sus áreas de principal impacto.Fundamentos de Programación Fund; de Tecnologías de Infor."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Planificacion del talento humano; Desarrollar competencias en la elaboración de perfiles de cargos y manuales de responsabilidades."
+            },
+            {
+                id: "2",
+                title: "Reclutamiento; preselección de Candidatos; entrevistas por Competencias; pruebas de Selección de Personal. Gestionar un proceso de selección de personal en una organización empresarial."
+            },
+            {
+                id: "3",
+                title: "Vinculación y Contratación. Identificar los requisitos legales del proceso de vinculación y contratación laboral."
+            },
+            {
+                id: "4",
+                title: "Inducción; entretenimiento; desarrollo de Personas; clima Laboral. Estructurar planes y herramientas para potenciar el desarrollo humano en las organizaciones."
+            },
+            {
+                id: "5",
+                title: "Evaluación de Desempeño por competencias"
+            },
+            {
+                id:"6",
+                title:"Aprendizaje organizacional. Diseñar y aplicar evaluaciones de desempeño por competencias"
+            }
+        ],
+        duration: 18,
+        modality: "On Line",
+        img: "./public/img/diplomadotalentohumano_short_0.jpg"
+    },
+    {
+        id: "45",
+        title: "DIPLOMADO EN LOGÍSTICA GLOBAL",
+        category: "yoga",
+        description: "Con este diplomado en logística podrás conocer las estrategias para realizar una distribución eficiente de los productos con un excelente servicio.",
+        skills: [
+            {
+                id: "1",
+                description: "Desarrollar las claves para dirigir y planificar los procesos de calidad y operaciones logísticas."
+            },
+            {
+                id: "2",
+                description: "Adquirir los conocimientos necesarios sobre los fundamentos de la logística, la producción y la distribución comercial a nivel global."
+            },
+            {
+                id: "3",
+                description:"Asumir las herramientas necesarias para planificar un proyecto logístico en todas sus fases y tomar decisiones operativas."
+            },
+            {
+                id: "4",
+                description:"Conocer el funcionamiento de la gestión de compras y aprovisionamiento y los mecanismos de creación de cadena de suministro."
+            },
+            {
+                id: "5",
+                description:"Dominar las tecnologías de la información logística y todas aquellas relacionadas con sistemas e ingeniería logística."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Introducción a las operaciones: conceptos y métricas Marco contemporáneo de gestión de las operaciones"
+            },
+            {
+                id: "2",
+                title: "La búsqueda por la perfección en los procesos. Process Analytics: descubriendo patrones en los datos operacionales"
+            },
+            {
+                id: "3",
+                title: "Supply Chain analytics: desagregando los procesos"
+            },
+            {
+                id: "4",
+                title: "AOptimización: el uso efectivo de los recursos. Process mining: comprendiendo la interrelación entre los datos y los procesos"
+            }
+        ],
+        duration: 20,
+        modality: "On Line",
+        img: "./public/img/fc417e79-ece2-4fa1-b0c2-39c083993dad-12792fb57804.jpg"
+    },
+    {
+        id: "46",
+        title: "Curso de Transporte Marítimo y Gestión portuaria Nivel 1",
+        category: "yoga",
+        description: "Con este curso aprenderán a conocer y dominar la logística del transporte marítimo, sus modalidades de carga, los tipos de seguros y la gestión de los trámites portuarios.",
+        skills: [
+            {
+                id: "1",
+                description: "Diferenciar las tendencias comerciales, ventajas e inconvenientes del transporte marítimo frente a otros medios de transporte."
+            },
+            {
+                id: "2",
+                description: "El marco normativo y legal del transporte marítimo."
+            },
+            {
+                id: "3",
+                description:"Qué figuras intervienen para realizar un transporte de mercancías a través del transporte marítimo."
+            },
+            {
+                id: "4",
+                description:"Qué contenedores podemos utilizar en función de la naturaleza y/o necesidad por peso, forma y volumen de las mercancías."
+            },
+            {
+                id: "5",
+                description:"Qué elementos forman un contrato de transporte marítimo. Entre quién se realiza y qué aporta cada una de las partes."
+            },
+            {
+                id: "6",
+                description:"Cómo se calcula y contrata el flete."
+            },
+            {
+                id: "7",
+                description:"Cómo se calculan y aplican los costes de la manipulación portuaria."
+            },
+            {
+                id: "8",
+                description:"Cómo cumplimentar un conocimiento de embarque."
+            },
+            {
+                id: "9",
+                description:"Cuáles son los distintos tipos de pólizas de seguro existentes para embarques marítimos."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "El transporte marítimo"
+            },
+            {
+                id: "2",
+                title: "Los actores del transporte marítimo"
+            },
+            {
+                id: "3",
+                title: "Los elementos físicos"
+            },
+            {
+                id: "4",
+                title: "El contrato de transporte marítimo"
+            },
+            {
+                id: "5",
+                title: "El flete"
+            },
+            {
+                id: "6",
+                title: "Los costes de la manipulación portuaria"
+            },
+            {
+                id: "7",
+                title: "El conocimiento de embarque"
+            },
+            {
+                id: "8",
+                title: "El seguro de transporte de mercancías"
+            }
+        ],
+        duration: 24,
+        modality: "On Line",
+        img: "./public/img/Curso de Transporte Marítimo y Gestión portuaria Nivel 1.png"
+    },
+    {
+        id: "47",
+        title: "Curso de Logística y Distribución aplicada al Comercio Electrónico",
+        category: "yoga",
+        description: "El E-Commerce es una de las áreas con más crecimiento en los últimos años. Supone una gran oportunidad de crecimiento y expansión para muchas empresas, particularmente emprendedores y PYMES. Por eso creamos este curso, para que todos los alumnos conozcan el mundo del E-commerce y su relación con la logística y la distribución.",
+        skills: [
+            {
+                id: "1",
+                description: "Cómo es la situación del E-Commerce en el mundo y en la Argentina"
+            },
+            {
+                id: "2",
+                description: "Cómo es el proceso de compra E-Commerce"
+            },
+            {
+                id: "3",
+                description:"Cómo se lleva a cabo la resolución de la compra E-Commerce"
+            },
+            {
+                id: "4",
+                description:"Cuáles son las nuevas operaciones logística E-Commerce"
+            },
+            {
+                id: "5",
+                description:"Cuáles son los Nuevos Formatos de Depósitos y Layout"
+            },
+            {
+                id: "6",
+                description:"Cuáles son las Condiciones y Características de la paquetería en el e-commerce"
+            },
+            {
+                id: "7",
+                description:"Qué es la logística inversa en e-commerce"
+            },
+            {
+                id: "8",
+                description:"Qué son los Indicadores de Gestión Logística en e-commerce"
+            },
+            {
+                id: "9",
+                description:"Cómo se lleva a cabo el Proceso de Tercerización Logística en e-commerce"
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Situación del E-Commerce en el Mundo y Argentina. Proceso de Compra E-Commerce. Resolución de la Compra"
+            },
+            {
+                id: "2",
+                title: "Nuevas operaciones Logística E-Commerce. Cambio y Evolución de Almacenes, distribución, transporte y Operación para E-Commerce"
+            },
+            {
+                id: "3",
+                title: "Nuevos Formatos de Depósitos y Layout. Condiciones y Características de la paquetería en el e-commerce. Tipos de medios de transporte para el E-Commerce. Software y Sistemas de información para el seguimiento on-line de pedidos y entregas"
+            },
+            {
+                id: "4",
+                title: "Gestión de la capilaridad en la entrega domiciliaria. Gestión en el almacén. Logística Inversa y su trazabilidad"
+            },
+            {
+                id: "5",
+                title: "Indicadores de Gestión Logística. Nuevos tipos de Partner Logístico. Proceso de Tercerización Logística (Especialización)"
+            }
+        ],
+        duration: 32,
+        modality: "On Line",
+        img: "./public/img/Curso de Logística y Distribución aplicada al Comercio Electrónico.jpg"
     }
 ];
 
