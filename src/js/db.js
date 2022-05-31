@@ -2540,6 +2540,67 @@ const cursos=[
         duration: 24,
         modality: "On Line",
         img: "./public/img/Maestría Oficial en Big Data y Ciencia de Datos.jpg"
+    },
+    {
+        id: "49",
+        title: "MAESTRÍA Y CERTIFICADO EN BUSINESS ANALYTICS Y BIG DATA",
+        category: "yoga",
+        description: "Maestría online innovador, dirigido a profesionales que desean mejorar la toma de decisiones relacionadas con la gestión del riesgo y aprovechar el poder de los datos para transformar a las empresas.",
+        skills: [
+            {
+                id: "1",
+                description: "Dominar normas básicas para la gestión de riesgos como ISO 31000 y COSO."
+            },
+            {
+                id: "2",
+                description: "Aportar soluciones de Business Intelligence basadas en la nube y aplicarlos al Risk Management."
+            },
+            {
+                id: "3",
+                description:"Desarrollar proyectos de Customer Intelligence y Risk Data Analytics."
+            },
+            {
+                id: "4",
+                description:"Implantar un sistema de evaluación y gestión de riesgos en la organización bajo la norma ISO 31000."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Introducción a la Gestión de Riesgos"
+            },
+            {
+                id: "2",
+                title: "Conceptos Generales de la Gestión del Riesgo"
+            },
+            {
+                id: "3",
+                title: "Proceso de Evaluación del Riesgo"
+            },
+            {
+                id: "4",
+                title: "Riesgos Empresariales Genéricos"
+            },
+            {
+                id: "5",
+                title: "Riesgos Transversales en la Empresa"
+            },
+            {
+                id: "6",
+                title: "Riesgos Financieros en la Empresa"
+            },
+            {
+                id: "7",
+                title: "Estructura Organizativa en la Gestión del Riesgo"
+            },
+            {
+                id: "8",
+                title: "Software de Análisis y Gestión de Riesgos"
+            }
+        ],
+        duration: 20,
+        modality: "On Line",
+        img: "./public/img/MAESTRÍA Y CERTIFICADO EN BUSINESS ANALYTICS Y BIG DATA.jpg"
     }
 ];
 
