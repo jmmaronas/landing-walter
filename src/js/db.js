@@ -2601,6 +2601,149 @@ const cursos=[
         duration: 20,
         modality: "On Line",
         img: "./public/img/MAESTRÍA Y CERTIFICADO EN BUSINESS ANALYTICS Y BIG DATA.jpg"
+    },
+    {
+        id: "50",
+        title: "Curso: Auxiliar en Educación Especial",
+        category: "yoga",
+        description: "Los docentes de alumnos con necesidades educativas especiales deben contar con unas habilidades específicas para impartir sus lecciones, pero tienen que conocer toda la normativa y gestión que implica trabajar en centros especializados.",
+        skills: [
+            {
+                id: "1",
+                description: "Ofrecer una visión global sobre la gestión de la educación especial "
+            },
+            {
+                id: "2",
+                description: "Conocer la normativa sobre la educación especial "
+            },
+            {
+                id: "3",
+                description:"Profundizar en la organización de los centros de educación especial "
+            },
+            {
+                id: "4",
+                description:"Conocer los recursos disponibles para la enseñanza de alumnos con necesidades especiales"
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Organización, legislación, recursos y financiación de la Educación Especial  "
+            },
+            {
+                id: "2",
+                title: "La integración educativa y las diferentes modalidades de escolarización "
+            },
+            {
+                id: "3",
+                title: "La organización de los centros de educación especial "
+            },
+            {
+                id: "4",
+                title: "Ordenación de los servicios complementarios a la atención educativa"
+            },
+            {
+                id: "5",
+                title: "Algunos recursos disponibles para alumnos con NEAE"
+            },
+            {
+                id: "6",
+                title: "Internet: aplicaciones de interés para la educación especial"
+            },
+            {
+                id: "7",
+                title: "Alumnado con NEAE: legislación estatal"
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/Curso Auxiliar en Educación Especial.jpg"
+    },
+    {
+        id: "51",
+        title: "Curso Estrategia de operaciones avanzadas",
+        category: "yoga",
+        description: "La gestión y calidad de las operaciones es fundamental a la hora de lograr ventajas competitivas en un mercado globalizado." ,
+        skills: [
+            {
+                id: "1",
+                description: "El curso entrega herramientas para solucionar otras problemáticas incluidas en las operaciones como control de calidad de productos, programación de proyectos, localización de instalaciones y layout. El curso aborda problemas de mayor complejidad que el curso anterior usando herramientas de investigación de operaciones y programación matemática. Se entregarán herramientas claves analíticas para la resolución de problemas, como optimización no lineal, árboles de decisión, y varias formas de programación dinámica."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Proyectos: Enfoques, modelos y técnicas para planificar la producción en el largo y mediano plazo. Programación detallada de las actividades en el corto plazo. Una máquina, varias máquinas. Reglas de secuenciación, modelos de programación matemática y técnicas heurísticas. Programación estocástica para incluir variabilidad e incertidumbre."
+            },
+            {
+                id: "2",
+                title: "MRP vs JIT: Entender los dos tipos principales de producción: empuje y tirón. Diferenciar su funcionamiento y cómo interactúan en una cadena de suministro. Estudiar las herramientas asociadas: MRP y JIT."
+            },
+            {
+                id: "3",
+                title: "CPM PERT: Inventarios para situaciones con demanda dependiente (e.g.: gestión de proyectos): estructura básica de un sistema MRP; técnicas para determinar tamaño de lote. Planificación de requerimientos de capacidad. Evolución hacia sistemas modernos de planificación. Representación gráfica de un proyecto. CPM, PERT."
+            },
+            {
+                id: "4",
+                title: "Estrategias de Localización y Layout: Análisis de decisiones estratégicas relacionadas con la capacidad y localización de las instalaciones de una empresa productiva de bienes y/o servicios. Discusión de las decisiones táctico-operativas relacionadas con el diseño de la distribución de las instalaciones. Tipos de distribución y costos asociados. Modelos de programación matemática y técnicas heurísticas."
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/Curso Estrategia de operaciones avanzadas.png"
+    },
+    {
+        id: "50",
+        title: "Curso Maestría Oficial en Comunicación Social de la Investigación Científica",
+        category: "yoga",
+        description: "El papel que juegan los canales de comunicación en la formación de la opinión pública y en la construcción de las narrativas que dan forma a nuestra realidad, hace que cada vez más científicos y comunicadores, sean conscientes de la importancia de la divulgación y comunicación de la ciencia.",
+        skills: [
+            {
+                id: "1",
+                description: "Enfoque único en el mercado, con comunicación en distintos ámbitos científico-tecnológicos."
+            },
+            {
+                id: "2",
+                description: "Énfasis en la innovación en materia de comunicación y en las nuevas formas de divulgación en espacios abiertos."
+            },
+            {
+                id: "3",
+                description:"Formación para la difusión de la investigación científica en medios digitales: Redes sociales, blogs, revistas digitales especializadas, etc."
+            },
+            {
+                id: "4",
+                description:"Visión global:  foco en el ámbito internacional de la comunicación de la ciencia y la tecnología."
+            }, 
+            {
+                id:"5",
+                description:"Asignaturas específicas para comunicación del riesgo (centrada en pandemias y catástrofes) y comunicación del medio ambiente."
+            },
+            {
+                id:"6",
+                description:"Contenido y planteamiento del programa basado y alineado con las necesidades del sector y el mercado laboral, con manuales adecuándose constantemente a las últimas necesidades del mercado."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "El estudio social de la ciencia y la tecnología; políticas, ética y valores en ciencia, tecnología y sociedad"
+            },
+            {
+                id: "2",
+                title: "Métodos y técnicas de investigación en comunicación social; lenguajes y estilos para la divulgación de la ciencia y la tecnología; el salto digital: difusión de la investigación científica en los nuevos medios de comunicación social"
+            },
+            {
+                id: "3",
+                title: "Espacios y recursos de promoción de la cultura científica; comunicación del riesgo: características, funciones y competencias"
+            },
+            {
+                id: "4",
+                title: "Desarrollo y comunicación de la investigación medioambiental; trabajo Fin de Máster"
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/Curso Maestría Oficial en Comunicación Social de la Investigación Científica.jpg"
     }
 ];
 
