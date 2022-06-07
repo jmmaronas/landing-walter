@@ -2693,7 +2693,7 @@ const cursos=[
         img: "./public/img/Curso Estrategia de operaciones avanzadas.png"
     },
     {
-        id: "50",
+        id: "52",
         title: "Curso Maestría Oficial en Comunicación Social de la Investigación Científica",
         category: "yoga",
         description: "El papel que juegan los canales de comunicación en la formación de la opinión pública y en la construcción de las narrativas que dan forma a nuestra realidad, hace que cada vez más científicos y comunicadores, sean conscientes de la importancia de la divulgación y comunicación de la ciencia.",
