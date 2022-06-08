@@ -2744,6 +2744,279 @@ const cursos=[
         duration: 48,
         modality: "On Line",
         img: "./public/img/Curso Maestría Oficial en Comunicación Social de la Investigación Científica.jpg"
+    },
+    {
+        id: "53",
+        title: "Curso Maestría Auditoría de carga Marítima",
+        category: "yoga",
+        description: "El 90% del comercio mundial se mueve gracias al transporte marítimo, a bordo de buques portacontenedores y otros medios de transporte marítimo. A pesar de que se trata de un medio de transporte relativamente lento, los bajos precios lo han convertido en la mejor alternativa para impulsar el comercio internacional. ",
+        skills: [
+            {
+                id: "1",
+                description: "Identificar los controles que debe superar la mercancía."
+            },
+            {
+                id: "2",
+                description: "Profundizar en el mundo del Transporte Marítimo."
+            },
+            {
+                id: "3",
+                description:"Conocer los aspectos fundamentales del comercio internacional."
+            },
+            {
+                id: "4",
+                description:"Identificar las principales modalidades contractuales en la práctica del comercio internacional."
+            }, 
+            {
+                id:"5",
+                description:"Conocer el régimen jurídico general de los puertos."
+            },
+            {
+                id:"6",
+                description:"Conocer los aspectos legales del Derecho Marítimo."
+            },
+            {
+                id:"7",
+                description:"Adquirir la normativa y terminología aplicable a la Aduana."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "TRANSPORTE MARÍTIMO"
+            },
+            {
+                id: "2",
+                title: "REGULACIÓN DEL TRANSPORTE MARÍTIMO"
+            },
+            {
+                id: "3",
+                title: "PROCEDIMIENTOS MARÍTIMOS"
+            },
+            {
+                id: "4",
+                title: "COMERCIO INTERNACIONAL"
+            },
+            {
+                id:"5",
+                title:"TRIBUTACIÓN EN EL COMERCIO INTERNACIONAL"
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/Maestría Auditoría de carga Marítima.jpg"
+    },
+    {
+        id: "54",
+        title: "Curso WordPress Hosting módulos 1; 2 y 3",
+        category: "yoga",
+        description: "El hosting es uno de los elementos principales para poner en marcha un proyecto con WordPress. Existen miles de empresas que ofrecen hosting WordPress en Internet y no es sencillo elegir entre tantas opciones ya sea por el precio, la calidad, las prestaciones o simplemente porque no la conoces.",
+        skills: [
+            {
+                id: "1",
+                description: "Instalar WordPress de forma manual y automatizada"
+            },
+            {
+                id: "2",
+                description: "Configurar correctamente tu WordPress"
+            },
+            {
+                id: "3",
+                description:"Gestionar todo lo referente a entradas, categorías, tags, etc."
+            },
+            {
+                id: "4",
+                description:"Crear y editar páginas y como ponerlas como página principal."
+            }, 
+            {
+                id:"5",
+                description:"Crear menús y personalizarlos"
+            },
+            {
+                id:"6",
+                description:"Activar las urls amigables, imprescindibles para el SEO"
+            },
+            {
+                id:"7",
+                description:"Instalar plugin que aportan mayores funcionalidades para WordPress"
+            },
+            {
+                id:"8",
+                description:"Instalar temas de WordPress y premium para mejorar el diseño de tu web."
+            },
+            {
+                id:"9",
+                description:"Actualizar WordPress para siempre estar a la última"
+            },
+            {
+                id:"10",
+                description:"Nociones de seguridad en WordPress para que no puedas ser hackeado"
+            },
+            {
+                id:"11",
+                description:"Errores típicos de WordPress y cómo solucionarlos"
+            },
+            {
+                id:"12",
+                description:"Mejorar el WPO de tu WordPress para conseguir la mejor velocidad"
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Instalación de WordPress (manual y automática); administración de la web; configuración básica."
+            },
+            {
+                id: "2",
+                title: "Instalación y gestión de Temas; añadir entradas al Blog; añadir páginas a la web."
+            },
+            {
+                id: "3",
+                title: "Gestión de Menús; gestión de Widgets; gestión de Plugins."
+            },
+            {
+                id: "4",
+                title: "Gestionar comentarios; gestión de Usuarios; copias de Seguridad"
+            }
+        ],
+        duration: 24,
+        modality: "On Line",
+        img: "./public/img/Curso WordPress Hosting módulos 1_ 2 y 3.jpeg"
+    },
+    {
+        id: "55",
+        title: "Curso Maestría Oficial en Epidemiología y Salud Pública",
+        category: "yoga",
+        description: "La sociedad actual requiere de respuestas innovadoras y adaptadas a las necesidades y expectativas de unas poblaciones en plena transición global. Ante esto, la situación laboral precisa de profesionales muy bien formados en métodos de análisis de datos en salud y con una comprensión global de los sistemas sanitarios.",
+        skills: [
+            {
+                id: "1",
+                description: "Única Maestría Oficial en Epidemiología y Salud Pública, abordando ambas disciplinas y su interrelación."
+            },
+            {
+                id: "2",
+                description: "Desarrollarás un programa de Epidemiología y Salud Pública."
+            },
+            {
+                id: "3",
+                description:"Estudiarán los aspectos éticos, deontológicos e implicaciones legales de la profesión."
+            },
+            {
+                id: "4",
+                description:"Abordarán la comunicación en situaciones de emergencia y a públicos no especializados."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Salud, salud pública y comunitaria; promoción de la salud y educación para la salud; salud laboral; medioambiente y salud pública: riesgos medioambientales; planificación, evaluación y gestión sanitaria; comunicación, tecnología de la comunicación y aspectos éticos-legales en el sector sanitario"
+            },
+            {
+                id: "2",
+                title: "Método epidemiológico, diseños avanzados y demografía sanitaria; metodología de investigación en Epidemiología"
+            },
+            {
+                id: "3",
+                title: "Trabajo Fin de Máster"
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/Curso Maestría Oficial en Epidemiología y Salud Pública.jpg"
+    },
+    {
+        id: "56",
+        title: "CURSO LICENCIATURA EN MERCADEO Y PUBLICIDADa",
+        category: "yoga",
+        description: "La sociedad actual requiere de respuestas innovadoras y adaptadas a las necesidades y expectativas de unas poblaciones en plena transición global. Ante esto, la situación laboral precisa de profesionales muy bien formados en métodos de análisis de datos en salud y con una comprensión global de los sistemas sanitarios.",
+        skills: [
+            {
+                id: "1",
+                description: "Diferenciar, aplicar y dominar las técnicas cuantitativas del ámbito de las Ciencias Sociales y de la Comunicación en la investigación del marketing digital."
+            },
+            {
+                id: "2",
+                description: "Diferenciar, emplear y demostrar la correcta aplicación de técnicas de investigación cualitativa."
+            },
+            {
+                id: "3",
+                description:"Conocer y sintetizar las fortalezas y los límites de los métodos principales de investigación en marketing digital: cuantitativos y cualitativos."
+            },
+            {
+                id: "4",
+                description:"Conocer, identificar e integrar las fortalezas y los límites de los métodos de investigación cuantitativa y cualitativa empleados en Marketing Digital."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Relación y diferencias; dominio de conceptos básicos: audiencias, segmentos, plataformas, etc.; desarrollo de estrategias, objetivos y ventas digitales; medición de campañas digitales mediante herramientas analíticas web"
+            },
+            {
+                id: "2",
+                title: "Definición y segmentación de audiencias con relación al objetivo; creación, seguimiento y análisis de cuentas o perfiles en redes sociales; integración de la estrategia de marketing a redes sociales; construcción y fidelización de marca; uso de herramientas de medición digital según la red."
+            },
+            {
+                id: "3",
+                title: "Captura, mantenimiento y fidelización de clientes; valoración e implementación de email Marketing a la estrategia digital; definición adecuada de tiempos y frecuencias de contacto; administración y correcto uso de bases de datos, contenidos y herramientas de envío y análisis; objetivos e indicadores; herramientas; estrategias de comunicación comercial.Creación y generación de contenidos de valor; adaptación de contenido a los diferentes medios y plataformas de comunicación; generación de afinidad y fidelización; desarrollo conceptual alineado con la imagen de marca."
+            },
+            {
+                id: "4",
+                title:"Establecimiento de objetivos de negocio; implementación de una estrategia digital orgánica; define tus objetivos y tus buyer persona; suma de acciones pagas y orgánicas; establece un presupuesto."
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/LICENCIATURA EN MERCADEO Y PUBLICIDAD.jpg"
+    },
+    {
+        id: "57",
+        title: "Curso Teórico online de práctico de transporte de carga para puertos",
+        category: "yoga",
+        description: "Con la realización de este curso online podrás desarrollar las habilidades y competencias profesionales necesarias para cumplir tus objetivos en el ámbito laboral del comercio internacional y transporte. Da un impulso que tu carrera profesional ",
+        skills: [
+            {
+                id: "1",
+                description: "Conocer los diferentes modelos de gestión portuaria."
+            },
+            {
+                id: "2",
+                description: "Analizar el marco económico, jurídico y político del comercio internacional."
+            },
+            {
+                id: "3",
+                description:"Conocer la normativa del comercio internacional, el funcionamiento del sistema aduanero y la gestión de los documentos aduaneros."
+            },
+            {
+                id: "4",
+                description:"Aprender las principales características de la contratación y la compraventa internacional."
+            },
+            {
+                id: "5",
+                description: "Conocer los aspectos básicos del seguro en el comercio internacional."
+            },
+            {
+                id: "6",
+                description: "Aprender las nociones básicas de carga y descarga del buque."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "MODELOS DE GESTIÓN PORTUARIA; EL SISTEMA ADUANERO Y LA NORMATIVA DE COMERCIO INTERNACIONAL; GESTIÓN DE DOCUMENTOS ADUANEROS; LA CONTRATACIÓN INTERNACIONAL"
+            },
+            {
+                id: "2",
+                title: "COMPRAVENTA INTERNACIONAL; ASPECTOS BÁSICOS DEL SEGURO EN EL COMERCIO INTERNACIONAL"
+            },
+            {
+                id: "3",
+                title: "ACONDICIONAMIENTO DE LOS ESPACIOS DE CARGA DEL BUQUE;  ESTIBA DE LA CARGA EN FUNCIÓN DE LAS MANIOBRAS DEL BUQUE;; MEDIOS DE CARGA Y DESCARGA DEL BUQUE"
+            }
+        ],
+        duration: 48,
+        modality: "On Line",
+        img: "./public/img/Curso Teórico online de práctico de transporte de carga para puertos.jfif"
     }
 ];
 
