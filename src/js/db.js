@@ -3017,6 +3017,51 @@ const cursos=[
         duration: 48,
         modality: "On Line",
         img: "./public/img/Curso Teórico online de práctico de transporte de carga para puertos.jfif"
+    },
+    {
+        id: "58",
+        title: "CURSO, CERTIFICADO EN SOCIAL MEDIA APLICADO AL TURISMO",
+        category: "yoga",
+        description: "El Social Media es una disciplina que ha avanzado en su aplicación y en su uso de una manera vertiginosa, tanto por parte de las personas como de las marcas. Este Certificado te permitirá desempeñarte con conocimiento, aptitudes y habilidades en el ámbito del Social Media aplicado al turismo, para poder llevar adelante la conceptualización, planificación y desarrollo de un plan de Social Media aplicado a la marca de la industria del turismo",
+        skills: [
+            {
+                id: "1",
+                description: "Habilidad de Analizar un Plan de Social Media basado en el Modelo del Pentágono de Social Media."
+            },
+            {
+                id: "2",
+                description: "Capacidad para desarrollar un plan de Social Media y analizar su factibilidad desde el punto de vista táctico."
+            },
+            {
+                id: "3",
+                description:"Capacidad para ejecutar las actividades necesarias en la gestión de social media"
+            },
+            {
+                id: "4",
+                description:"Capacidad para implementar un plan de Social Media adaptado a las necesidades de una Marca de Turismo."
+            }
+        ],
+        units: [
+            {
+                id: "1",
+                title: "Las particularidades del turismo como industria"
+            },
+            {
+                id: "2",
+                title: "La Estrategia en Social Media Aplicada al Turismo"
+            },
+            {
+                id: "3",
+                title: "La Táctica en Social Media aplicada al turismo"
+            },
+            {
+                id: "4",
+                title: "La Gestión de Social Media en Turismo"
+            }
+        ],
+        duration: 16,
+        modality: "On Line",
+        img: "./public/img/CURSO, CERTIFICADO EN SOCIAL MEDIA APLICADO AL TURISMO.jfif"
     }
 ];
 
